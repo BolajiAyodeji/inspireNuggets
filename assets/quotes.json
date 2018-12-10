@@ -1,0 +1,151 @@
+data = [{
+        "number": "1",
+        "author": "Von R. Glitschka",
+        "quote": "The client may be king, but he's not the art director."
+    },
+    {
+        "number": "2",
+        "author": "Frank Capra",
+        "quote": "A hunch is creativity trying to tell you something."
+    },
+    {
+        "number": "3",
+        "author": "Steven Heller",
+        "quote": "As a profession, graphic designers have been shamefully remiss or ineffective about plying their craft for social or political betterment."
+    },
+    {
+        "number": "4",
+        "author": "Isaac Bashevis Singer",
+        "quote": "Every creator painfully experiences the chasm between his inner vision and its ultimate expression."
+    },
+    {
+        "number": "5",
+        "author": "James Hague",
+        "quote": "It’s extremely difficult to be simultaneously concerned with the end-user experience of whatever it is that you’re building and the architecture of the program that delivers that experience."
+    },
+    {
+        "number": "6",
+        "author": "Bill Cahan",
+        "quote": "We unfortunately live in a corporate world where group decision making is made to avoid failure rather than to achieve success."
+    },
+    {
+        "number": "7",
+        "author": "Get others to do the Work for you, but Always Take the Credit",
+        "quote": "Use the wisdom, knowledge, and legwork of other people to further your own cause. Not only will such assistance save you valuable time and energy, it will give you a godlike aura of efficiency and speed. In the end your helpers will be forgotten and you will be remembered. Never do yourself what others can do for you."
+    },
+    {
+        "number": "8",
+        "author": "Ernest Hemingway",
+        "quote": "Write drunk; edit sober."
+    },
+    {
+        "number": "9",
+        "author": "Milton Glaser",
+        "quote": "The real issue is not talent as an independent element, but talent in relationship to will, desire, and persistence. Talent without these things vanishes and even modest talent with those characteristics grows."
+    },
+    {
+        "number": "10",
+        "author": "Ricardo Zea",
+        "quote": "Learning Web Design is like playing video games: You start small and build your character as you progress, then you beat the boss, literally."
+    },
+    {
+        "number": "11",
+        "author": "Charles Mingus",
+        "quote": "Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that’s creativity."
+    },
+    {
+        "number": "12",
+        "author": "Andrew Lewis",
+        "quote": "I love the comment, “You must love designing for a living.” At that point I usually start to laugh or break into uncontrollable tears."
+    },
+    {
+        "number": "13",
+        "author": "Brian Eno",
+        "quote": "Instead of shooting arrows at somebody else’s target… I make my own target around wherever my arrow has happened to have landed."
+    },
+    {
+        "number": "14",
+        "author": "Thomas Vasquez",
+        "quote": "I’ve always held to the belief that the practice of creating compelling graphic design occurs not by employing the principals of a democracy, but rather, that of a monarchy."
+    },
+    {
+        "number": "15",
+        "author": "Anton Fokker",
+        "quote": "Once the problem was stated, its solution came to me in a flash."
+    },
+    {
+        "number": "16",
+        "author": "Wim Crouwel",
+        "quote": "You can’t do better design with a computer, but you can speed up your work enormously."
+    },
+    {
+        "number": "17",
+        "author": "Bolaji Ayodeji",
+        "quote": "Keep it clear, simple and light; to many designs causes distractions."
+    },
+    {
+        "number": "18",
+        "author": "Seun Daramola",
+        "quote": "To be relevant in the industry you MUST posses JavaScript skills as a front-end engineer. I know people who get hired earning real dollars with just sound react skills with little or no design sense. The styling part of things is something you can easily pick along the way. We must raise people who are relevant to the industry"
+    },
+    {
+        "number": "19",
+        "author": "Ivan Chermayeff",
+        "quote": "Design is directed toward human beings. To design is to solve human problems by identifying them and executing the best solution."
+    },
+    {
+        "number": "20",
+        "author": "Benjamin Cavanagh",
+        "quote": "A computer without Photoshop is like a dog with no legs. Sure is fun, but you can’t really do anything with it."
+    },
+    {
+        "number": "21",
+        "author": "Play a Sucker to Catch a Sucker – Seem Dumber than your Mark",
+        "quote": "No one likes feeling stupider than the next persons. The trick, is to make your victims feel smart – and not just smart, but smarter than you are. Once convinced of this, they will never suspect that you may have ulterior motives."
+    },
+    {
+        "number": "22",
+        "author": "Bolaji Ayodeji",
+        "quote": "Use your time now to get the principles of design, understand and build perfect User Interfaces then add JavaScript to become complete."
+    },
+    {
+        "number": "23",
+        "author": "Ana Cummings",
+        "quote": "Inspired interiors indubitably involve ingenious imitations of inspired interiors."
+    },
+    {
+        "number": "24",
+        "author": "Tom Bissel",
+        "quote": "To create anything–whether a short story or a magazine profile or a film or a sitcom–is to believe, if only momentarily, you are capable of magic."
+    },
+    {
+        "number": "25",
+        "author": "Mike Monteiro",
+        "quote": "A good designer finds an elegant way to put everything you need on a page. A great designer convinces you half that shit is unnecessary."
+    },
+    {
+        "number": "26",
+        "author": "Stephen Fry",
+        "quote": "As if a device can function if it has no style. As if a device can be called stylish that does not function superbly… yes, beauty matters. Boy, does it matter. It is not surface, it is not an extra, it is the thing itself."
+    },
+    {
+        "number": "27",
+        "author": "John Mason Brown",
+        "quote": "The only true happiness comes from squandering ourselves for a purpose."
+    },
+    {
+        "number": "28",
+        "author": "Ryan Singer",
+        "quote": "Good ideas turn into good designs fairly quickly. If you catch yourself fiddling too much with colors, borders and treatments to bring a design together, chances are the problem lies somewhere deeper."
+    },
+    {
+        "number": "29",
+        "author": "James Hague",
+        "quote": "It’s extremely difficult to be simultaneously concerned with the end-user experience of whatever it is that you’re building and the architecture of the program that delivers that experience."
+    },
+    {
+        "number": "30",
+        "author": "Jonathan Ive",
+        "quote": "The word design is everything and nothing. The design and the product itself are inseparable."
+    }
+]

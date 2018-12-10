@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body {
+    background: #00ab66;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(top, #00ab66, #3f888f);
+    background: -o-linear-gradient(top, #00ab66, #3f888f);
+    background: linear-gradient(to left, #00ab66, #3f888f);
+    /* Chrome 10-25, Safari 5.1-6 */
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    text-align: center;
+    font-size: 1em;
+    font-weight: 100;
+    font-family: 'Poppins';
+}
+
+.container {
+    position: absolute;
+    top: 40%;
+    margin-top: -200px;
+    left: 50%;
+    margin-left: -25%;
+    width: 45%;
+    height: 400px;
+    font-weight: 100;
+}
+
+#inspire {
+    width: 30%;
+    float: left;
+}
+
+.icon {
+    width: 30%;
+    height: auto;
+}
+
+#quote {
+    font-size: 1em;
+    line-height: 2em;
+    font-weight: 200;
+    text-align: justify;
+}
+
+#author {
+    font-size: 25px;
+    text-align: left;
+    color: #000;
+    text-transform: uppercase;
+}

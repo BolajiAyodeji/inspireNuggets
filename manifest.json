@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "InspireNuggets",
+    "description": "Generates random inspiring techie quotes for developers/designers.",
+    "version": "1",
+    "author": "Bolaji Ayodeji",
+    "browser_action": {
+        "default_icon": "tab-icon.png",
+        "default_title": "Be Inspired Today"
+    },
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    },
+    "permissions": ["activeTab"]
+
+}
