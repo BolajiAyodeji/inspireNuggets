@@ -30,8 +30,8 @@ data = [{
     },
     {
         "number": "7",
-        "author": "Get others to do the Work for you, but Always Take the Credit",
-        "quote": "Use the wisdom, knowledge, and legwork of other people to further your own cause. Not only will such assistance save you valuable time and energy, it will give you a godlike aura of efficiency and speed. In the end your helpers will be forgotten and you will be remembered. Never do yourself what others can do for you."
+        "author": "Michael Stinson",
+        "quote": "Letterspacing creates speedbumps for the reader."
     },
     {
         "number": "8",
@@ -81,7 +81,7 @@ data = [{
     {
         "number": "17",
         "author": "Bolaji Ayodeji",
-        "quote": "Keep it clear, simple and light; to many designs causes distractions."
+        "quote": "Keep it clear, simple and light; too many designs causes distractions."
     },
     {
         "number": "18",
@@ -100,8 +100,8 @@ data = [{
     },
     {
         "number": "21",
-        "author": "Play a Sucker to Catch a Sucker – Seem Dumber than your Mark",
-        "quote": "No one likes feeling stupider than the next persons. The trick, is to make your victims feel smart – and not just smart, but smarter than you are. Once convinced of this, they will never suspect that you may have ulterior motives."
+        "author": "Albert Einstein",
+        "quote": "If you can’t explain it simply, you don’t understand it well enough."
     },
     {
         "number": "22",
