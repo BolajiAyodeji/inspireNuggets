@@ -147,5 +147,15 @@ data = [{
         "number": "30",
         "author": "Jonathan Ive",
         "quote": "The word design is everything and nothing. The design and the product itself are inseparable."
+    },
+    {
+        "number": "31",
+        "author": "Chet Atkins",
+        "quote": "Copying one person is stealing. Copying ten is research."
+    },
+    {
+        "number": "32",
+        "author": "William Addison Dwiggins",
+        "quote": "In the matter of layout, forget art and use horse-sense. The printer-designer’s whole duty is to make a clear presentation of the message… This calls for an exercise of common sense and faculty of analysis rather than for art."
     }
 ]
