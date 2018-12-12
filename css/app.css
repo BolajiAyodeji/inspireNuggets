@@ -44,7 +44,7 @@ hr {
 }
 
 #quote {
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 2.0em;
     letter-spacing: 0.5px;
     font-weight: 100;
@@ -52,7 +52,7 @@ hr {
 }
 
 #author {
-    font-size: 1.8em;
+    font-size: 1.5em;
     text-align: left;
     color: #000;
     text-transform: uppercase;
