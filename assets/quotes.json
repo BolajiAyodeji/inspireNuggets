@@ -157,5 +157,15 @@ data = [{
         "number": "32",
         "author": "William Addison Dwiggins",
         "quote": "In the matter of layout, forget art and use horse-sense. The printer-designer’s whole duty is to make a clear presentation of the message… This calls for an exercise of common sense and faculty of analysis rather than for art."
-    }
+    },
+    {
+        "number": "33",
+        "author": "Jeremy Allison",
+        "quote": "We have to learn to see technical devices and software as others see them. Feeling a sense of pride in getting a device to do what we want doesn’t mean we’re clever, it means the design was wrong."
+    },
+    {
+        "number": "34",
+        "author": "Jeremy Allison",
+        "quote": "We have to learn to see technical devices and software as others see them. Feeling a sense of pride in getting a device to do what we want doesn’t mean we’re clever, it means the design was wrong."
+    },
 ]
