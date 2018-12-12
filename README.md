@@ -1,6 +1,6 @@
 <div align="center">
 
-# inspireNuggets
+![inspireNuggets](https://res.cloudinary.com/iambeejayayo/image/upload/v1544624001/tab-icon.png)
 
 A Chrome Extension that generates random inspiring techie quotes for developers/designers. :fire:
 
