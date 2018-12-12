@@ -7,11 +7,14 @@ body {
     background: linear-gradient(to left, #00ab66, #3f888f);
     /* Chrome 10-25, Safari 5.1-6 */
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    color: white;
+    color: #FFF;
     text-align: center;
-    font-size: 1em;
     font-weight: 100;
     font-family: 'Maven Pro';
+}
+
+hr {
+    color: #ddd !important;
 }
 
 .container {
@@ -35,15 +38,21 @@ body {
     height: auto;
 }
 
+.icon2 {
+    width: 15%;
+    height: auto;
+}
+
 #quote {
     font-size: 1.5em;
-    line-height: 2em;
+    line-height: 2.0em;
+    letter-spacing: 0.5px;
     font-weight: 100;
     text-align: justify;
 }
 
 #author {
-    font-size: 1.5em;
+    font-size: 1.8em;
     text-align: left;
     color: #000;
     text-transform: uppercase;
