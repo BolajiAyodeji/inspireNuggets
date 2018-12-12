@@ -1,3 +1,3 @@
 # Nuggets-For-Techies
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://res.cloudinary.com/iambeejayayo/image/upload/v1544621188/inspire.gif)
