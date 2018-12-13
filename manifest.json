@@ -3,11 +3,11 @@
     "name": "inspireNuggets for Chrome",
     "short_name": "inspireNuggets",
     "description": "inspireNuggets generates random inspiring techie quotes for developers/designers.",
-    "version": "1.2",
+    "version": "1.5",
     "author": "Bolaji Ayodeji",
     "browser_action": {
         "default_title": "Get inspired",
-        "default_icon": "img/icon.png",
+        "default_icon": "img/chrome-icon.png",
         "default_popup": "popup/popup.html"
     },
     "chrome_url_overrides": {

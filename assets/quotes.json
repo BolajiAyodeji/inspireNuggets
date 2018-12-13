@@ -165,7 +165,36 @@ data = [{
     },
     {
         "number": "34",
-        "author": "Jeremy Allison",
-        "quote": "We have to learn to see technical devices and software as others see them. Feeling a sense of pride in getting a device to do what we want doesn’t mean we’re clever, it means the design was wrong."
+        "author": "Jamie Croft",
+        "quote": "My wife doesn’t like it”; Designer: “Well then, I don’t like your wife”"
+    },
+    {
+        "number": "35",
+        "author": "Hugh Macleod",
+        "quote": "Nobody can tell you if what you’re doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is."
+    },
+    {
+        "number": "36",
+        "author": "Tao Te Ching",
+        "quote": "Deal with the difficult while it is yet easy; Deal with the great while it is yet small."
+    },
+    {
+        "number": "37",
+        "author": "Hugh Macleod",
+        "quote": "Nobody can tell you if what you’re doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is."
+    }, {
+        "number": "38",
+        "author": "David Ogilvy",
+        "quote": "In most agencies, account executives outnumber the copywriters two to one. If you were a dairy farmer, would you employ twice as many milkers as you had cows?"
+    },
+    {
+        "number": "39",
+        "author": "Human Factors International",
+        "quote": "If the users can’t find it, the function’s not there."
+    },
+    {
+        "number": "40",
+        "author": "David Carson",
+        "quote": "Graphic design will save the world right after rock and roll does."
     },
 ]
