@@ -124,8 +124,7 @@ $ git push -u origin master
 
 - [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
 
-<h4> If you are not a Developer and still want to add a/your Quote to this Extension fill</h4> [this form](https://goo.gl/forms/kIoWsKNW7osWGXiz2) <h4> and it would be added. </h4>
-</h4>
+If you are not a Developer and still want to add a/your Quote to this Extension fill [this form](https://goo.gl/forms/kIoWsKNW7osWGXiz2) and it would be added.
     
 This Guide is Open for Updates, if you feel it is not complete or you have ideas of what should be added, Follow the same format above.
 This file is stored in `docs/README.md`
