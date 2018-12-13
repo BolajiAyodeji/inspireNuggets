@@ -24,6 +24,6 @@ data = [
     {
         "number": "3",
         "author": "Steven Heller",
-        "quote": "As a profession, graphic designers have been shamefully remiss or ineffective about plying their craft for social or              political betterment."
+        "quote": "As a profession, graphic designers have been shamefully remiss or ineffective about plying their craft for social or political betterment."
     }
     ]
