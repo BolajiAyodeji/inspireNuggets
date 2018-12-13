@@ -47,8 +47,8 @@ data = [
     },
     {
         "number": "3",
-        "author": "Steven Heller",
-        "quote": "As a profession, graphic designers have been shamefully remiss or ineffective about plying their craft for social or political betterment."
+        "author": "Ernest Hemingway",
+        "quote": "Write drunk; edit sober."
     }
     ]
 ```
@@ -76,6 +76,21 @@ To add a new Quote this Extension; First you need to add the Quote to the `JSON 
         "quote": "Loorem ipsum dolor sit amet consectetur adipisicing elit.."
 }
 ```
-- Now edit that code snippet to show your own quote; (Change the number to the last number, add your Author name and Quote)
+- Now edit that code snippet to show your own quote; <br>
+(Change the number to the last number, add your Author name and Quote)
 
 ## STEP TWO
+- Navigate to this folder `js/app.js`
+- This is what the file would look like
+```
+console.log(data);
+var random = Math.floor(Math.random() * 40);
+document.getElementById('quote').innerHTML = data[random].quote;
+document.getElementById('author').innerHTML = data[random].author;
+```
+Now our Script updates with a new quote after every Reload, so you need to update this file to add your quote to the Randon Updates
+- In line two, change
+`var random = Math.floor(Math.random() * 40);` to `var random = Math.floor(Math.random() * 41);`
+- This `* 41` should be the last number in the `quotes.json` file
+- If your last added quote is number `90` you should add `* 90` here and not `*40`
+- Save the file and the extension should be updated
