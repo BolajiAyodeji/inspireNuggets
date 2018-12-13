@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Maven+Pro');
+@font-face {
+    font-family: MavenPro-Regulrar;
+    src: url("/assets/MavenPro-Regular.ttf") format("opentype");
+}
+
 body {
     background: #00ab66;
     /* fallback for old browsers */
@@ -10,7 +14,7 @@ body {
     color: #FFF;
     text-align: center;
     font-weight: 100;
-    font-family: 'Maven Pro';
+    font-family: 'MavenPro-Regular';
 }
 
 hr {
