@@ -107,9 +107,11 @@ Now our Script updates with a new quote after every Reload, so you need to updat
 
 ## STEP THREE
 - Push your files <br>
-`$ git add --all`
-`$ git commit -m "commit description here"`
-`$ git push -u origin master`
+```shell
+$ git add --all
+$ git commit -m "commit description here"
+$ git push -u origin master
+```
 - Open a Pull Request ( [What is a pull request?](https://yangsu.github.io/pull-request-tutorial/) )
 - Add enough description of what you did, changes you made and if possible screenshots
 - Wait for Review (Your PR would be reviewed and merged if deemed fit)
