@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro');
 body {
     background: #00ab66;
     /* fallback for old browsers */
@@ -9,7 +10,7 @@ body {
     color: #FFF;
     text-align: center;
     font-weight: 100;
-    font-family: sans-serif;
+    font-family: 'Maven Pro';
 }
 
 hr {
