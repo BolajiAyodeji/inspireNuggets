@@ -16,3 +16,10 @@ Submit a/your Quote [here](https://goo.gl/forms/a7F16zmOKFCCw6483)
 ![Extension Demo](https://res.cloudinary.com/iambeejayayo/image/upload/v1544623688/inspire.gif)
 
 </div>
+
+
+## Author
+[Bolaji Ayodeji](https://github.com/BolajiAyodeji)
+
+## Licence
+[MIT](https://opensource.org/licenses/MIT)
