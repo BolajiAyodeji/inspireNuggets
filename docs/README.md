@@ -67,7 +67,7 @@ To add a new Quote this Extension; First you need to add the Quote to the `JSON 
  ```
 - The last quote does not end with a `,` after the curly brackets `}`
 - Any quote before the last quote ends with a `,`
-- To add your quote; first add a `,` to the last quote
+- To add your quote; first add a `,` to the last quote after the curly bracket `}`
 - Copy and paste this code after the last quote
 ```
 {
