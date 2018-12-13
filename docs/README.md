@@ -116,10 +116,20 @@ $ git push -u origin master
 - Add enough description of what you did, changes you made and if possible screenshots
 - Wait for Review (Your PR would be reviewed and merged if deemed fit)
 
-### Helpful Resources
+## Helpful Resources
 
 - [Pro GIT Book](https://git-scm.com/book/en/v2)
 
 - [Try Git](https://try.github.io/)
 
 - [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
+
+This Guide is Open for Updates, if you feel it is not complete or you have ideas of what should be added, Follow the same format above.
+This file is stored in `docs/README.md`
+Update as you deem fit and send a Pull Request.
+
+## Author
+[Bolaji Ayodeji](https://github.com/BolajiAyodeji)
+
+## Licence
+[MIT](https://opensource.org/licenses/MIT)
