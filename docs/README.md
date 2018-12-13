@@ -13,7 +13,7 @@ A Chrome Extension that generates random inspiring techie quotes for developers/
 - Little Bash command line knowledge
 - Basic JavaScript knowledge
 
-### Setting on your Local Machine
+### Setting up on your Local Machine
 - Clone the Repository <br>
 `$ git clone https://github.com/BolajiAyodeji/inspireNuggets.git`
 - Enter the cloned directory <br>
@@ -26,8 +26,7 @@ A Chrome Extension that generates random inspiring techie quotes for developers/
     - Select `More Tools`
     - Select `Extensions`
     - Click on the `Load UnPacked` button at the upper left corner
-    - Locate the directory you cloned the repository to
-    - Click OK
+    - Locate the directory you cloned the repository to and Click OK
     - Now the Extension should be added to the list in Developer's Mode
     - Open a `New Tab` to preview the extension
     - Now when you make changes to the cloned repository, this Unpacked Extension would be updated
