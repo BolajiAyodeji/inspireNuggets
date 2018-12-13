@@ -2,7 +2,7 @@
 
 ![inspireNuggets](https://res.cloudinary.com/iambeejayayo/image/upload/v1544624001/tab-icon.png)
 
-A Chrome Extension that generates random inspiring techie quotes for developers/designers. :fire:
+A Chrome Extension that displays random inspiring techie quotes for developers/designers. :fire:
 </div>
 
 # Contributors Guide
