@@ -21,15 +21,15 @@ A Chrome Extension that generates random inspiring techie quotes for developers/
 - Open dorectory in your Code Editor <br>
 `code .`
 - Load the extension in Developer's Mode as 'UnPacked'
- - Open your Chrome Browser
- - Click on the three dots at the upper right corner of your tab
- - Select `More Tools`
- - Select `Extensions`
- - Click on the `Load UnPacked` button at the upper left corner
- - Locate the directory you cloned the repository to
- - Click OK
- - Now the Extension should be added to the list in Developer's Mode
- - 
+    - Open your Chrome Browser
+    - Click on the three dots at the upper right corner of your tab
+    - Select `More Tools`
+    - Select `Extensions`
+    - Click on the `Load UnPacked` button at the upper left corner
+    - Locate the directory you cloned the repository to
+    - Click OK
+    - Now the Extension should be added to the list in Developer's Mode
+    - 
 
 All Quotes are stored in a JSON file which can be found here `assets/quotes.json`
 Quotes are stored in this format
