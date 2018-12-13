@@ -13,14 +13,24 @@ A Chrome Extension that generates random inspiring techie quotes for developers/
 - Little Bash command line knowledge
 - Basic JavaScript knowledge
 
-### Setting up on your Local Machine
-- Clone the Repository <br>
+### Getting Started
+
+1.  If you are new to Git and Github, it is advisable you go through
+    [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+    before moving to the next step.
+    
+2.  Fork the Repository [here](https://github.com/BolajiAyodeji/inspireNuggets/fork)
+
+3.  Clone the forked Repository <br>
 `$ git clone https://github.com/BolajiAyodeji/inspireNuggets.git`
-- Enter the cloned directory <br>
+
+4.  Enter the cloned directory <br>
 `cd inspireNuggets`
-- Open dorectory in your Code Editor <br>
+
+5.  Open dorectory in your Code Editor <br>
 `code .`
-- Load the extension in Developer's Mode as 'UnPacked'
+
+6.  Load the extension in Developer's Mode as 'UnPacked'
     - Open your Chrome Browser
     - Click on the three dots at the upper right corner of your tab
     - Select `More Tools`
@@ -94,3 +104,20 @@ Now our Script updates with a new quote after every Reload, so you need to updat
 - This `* 41` should be the last number in the `quotes.json` file
 - If your last added quote is number `90` you should add `* 90` here and not `*40`
 - Save the file and the extension should be updated
+
+## STEP THREE
+- Push your files <br>
+`$ git add --all`
+`$ git commit -m "commit description here"`
+`$ git push -u origin master`
+- Open a Pull Request ( [What is a pull request?](https://yangsu.github.io/pull-request-tutorial/) )
+- Add enough description of what you did, changes you made and if possible screenshots
+- Wait for Review (Your PR would be reviewed and merged if deemed fit)
+
+### Helpful Resources
+
+- [Pro GIT Book](https://git-scm.com/book/en/v2)
+
+- [Try Git](https://try.github.io/)
+
+- [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
