@@ -246,5 +246,5 @@ data = [{
         "number": "50",
         "author": "Tef",
         "quote": "Write code that is easy to delete, not easy to extend."
-    },
+    }
 ]
