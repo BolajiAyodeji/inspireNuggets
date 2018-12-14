@@ -196,5 +196,55 @@ data = [{
         "number": "40",
         "author": "David Carson",
         "quote": "Graphic design will save the world right after rock and roll does."
-    }
+    },
+    {
+        "number": "41",
+        "author": "Master Yuan-Ma",
+        "quote": "Below the surface of the machine, the program moves. Withouteffort, it expands and contracts. In great harmony, electrons scatterand regroup. The forms on the monitor are but ripples on the water.The essence stays invisibly below."
+    },
+    {
+        "number": "42",
+        "author": "Donald Knuth",
+        "quote": "People think that computer science is the art of geniuses but theactual reality is the opposite, just many people doing things thatbuild on each other, like a wall of mini stones.”"
+    },
+    {
+        "number": "43",
+        "author": "Charles Babbage",
+        "quote": "On two occasions I have been asked, ‘Pray, Mr. Babbage, if you putinto the machine wrong figures, will the right answers come out?’[...] I am not able rightly to apprehend the kind of confusion of ideasthat could provoke such a question."
+    },
+    {
+        "number": "44",
+        "author": "C.A.R. Hoare",
+        "quote": "There are two ways of constructing a software design: One way isto make it so simple that there are obviously no deficiencies, and theother way is to make it so complicated that there are no obviousdeficiencies."
+    },
+    {
+        "number": "45",
+        "author": "Barbara Liskov",
+        "quote": "An abstract data type is realized by writing a special kind of program[...] which defines the type in terms of the operations which can beperformed on it."
+    },
+    {
+        "number": "46",
+        "author": "Edsger Dijkstra",
+        "quote": "...] the question of whether Machines Can Think [...] is about asrelevant as the question of whether Submarines Can Swim."
+    },
+    {
+        "number": "47",
+        "author": "Chris Sevilleja",
+        "quote": "To know a person is to read their GitHub account"
+    },
+    {
+        "number": "48",
+        "author": "Brian Kernighan and P.J. Plauger,",
+        "quote": "Debugging is twice as hard as writing the code in the first place.Therefore, if you write the code as cleverly as possible, you are, bydefinition, not smart enough to debug it."
+    },
+    {
+        "number": "49",
+        "author": "Jamie Zawinski",
+        "quote": "Some people, when confronted with a problem, think ‘I know, I’lluse regular expressions.’ Now they have two problems."
+    },
+    {
+        "number": "50",
+        "author": "Tef",
+        "quote": "Write code that is easy to delete, not easy to extend."
+    },
 ]
