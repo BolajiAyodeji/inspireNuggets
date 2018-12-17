@@ -62,7 +62,7 @@ data = [
     }
     ]
 ```
-To add a new Quote this Extension; First you need to add the Quote to the `JSON file` and then Update our `JavaScript` to add your quote to be randomly calculated.
+To add a new Quote this Extension; you need to add the Quote to the `JSON file`
 
 ## STEP ONE
 - Every Quote has a designated number, so check the number of the last quote before we proceed (For this guide the last number is `40`, this would change always, so use your's)
@@ -78,7 +78,7 @@ To add a new Quote this Extension; First you need to add the Quote to the `JSON 
 - The last quote does not end with a `,` after the curly brackets `}`
 - Any quote before the last quote ends with a `,`
 - To add your quote; first add a `,` to the last quote after the curly bracket `}`
-- Copy and paste this code after the last quote
+- Copy and paste this code after the last quote before the `];`
 ```
 {
         "number": "1",
@@ -89,23 +89,8 @@ To add a new Quote this Extension; First you need to add the Quote to the `JSON 
 - Now edit that code snippet to show your own quote; <br>
 (Change the number to the last number, add your Author name and Quote)
 
-## STEP TWO
-- Navigate to this folder `js/app.js`
-- This is what the file would look like
-```
-console.log(data);
-var random = Math.floor(Math.random() * 40);
-document.getElementById('quote').innerHTML = data[random].quote;
-document.getElementById('author').innerHTML = data[random].author;
-```
-Now our Script updates with a new quote after every Reload, so you need to update this file to add your quote to the Randon Updates
-- In line two, change
-`var random = Math.floor(Math.random() * 40);` to `var random = Math.floor(Math.random() * 41);`
-- This `* 41` should be the last number in the `quotes.json` file
-- If your last added quote is number `90` you should add `* 90` here and not `*40`
-- Save the file and the extension should be updated
 
-## STEP THREE
+## STEP TWO
 - Push your files <br>
 ```shell
 $ git add --all
