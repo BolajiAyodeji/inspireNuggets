@@ -65,7 +65,7 @@ data = [
 To add a new Quote this Extension; you need to add the Quote to the `JSON file`
 
 ## STEP ONE
-- Every Quote has a designated number, so check the number of the last quote before we proceed (For this guide the last number is `40`, this would change always, so use your's)
+- Every Quote has a designated number, so check the number of the last quote before we proceed
 - You should have your quote and author name already
 - Quotes are in this format
 ```
