@@ -183,8 +183,7 @@ data = [
         "number": "37",
         "author": "Hugh Macleod",
         "quote": "Nobody can tell you if what you’re doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is."
-    },
-    {
+    }, {
         "number": "38",
         "author": "David Ogilvy",
         "quote": "In most agencies, account executives outnumber the copywriters two to one. If you were a dairy farmer, would you employ twice as many milkers as you had cows?"
