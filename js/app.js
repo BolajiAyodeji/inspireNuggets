@@ -13,7 +13,7 @@ request.onload = () => {
     }
 };
 request.onerror = () => {
-    // TODO: Add your on error handler here.
+    console.log("404, JSON not found!")
 }
 
 request.send();
