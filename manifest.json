@@ -5,6 +5,9 @@
     "description": "inspireNuggets displays random inspiring techie quotes for developers/designers.",
     "version": "1.8",
     "author": "Bolaji Ayodeji",
+    "icons": {
+		"500": "img/chrome-icon.png"
+	},
     "browser_action": {
         "default_title": "Get inspired",
         "default_icon": "img/chrome-icon.png",
