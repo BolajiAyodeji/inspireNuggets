@@ -44,7 +44,7 @@ A Chrome Extension that displays random inspiring techie quotes for developers/d
 All Quotes are stored in a JSON file which can be found here `assets/quotes.json`
 Quotes are stored in this format
 ```
-data = [
+[
     {
         "number": "1",
         "author": "Von R. Glitschka",
@@ -60,7 +60,7 @@ data = [
         "author": "Ernest Hemingway",
         "quote": "Write drunk; edit sober."
     }
-    ]
+]
 ```
 To add a new Quote this Extension; you need to add the Quote to the `JSON file`
 
@@ -78,7 +78,7 @@ To add a new Quote this Extension; you need to add the Quote to the `JSON file`
 - The last quote does not end with a `,` after the curly brackets `}`
 - Any quote before the last quote ends with a `,`
 - To add your quote; first add a `,` to the last quote after the curly bracket `}`
-- Copy and paste this code after the last quote before the `];`
+- Copy and paste this code after the last quote before the `]`
 ```
 {
         "number": "1",
