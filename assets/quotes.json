@@ -1,4 +1,4 @@
-data = [
+[
     {
         "number": "1",
         "author": "Von R. Glitschka",
@@ -249,4 +249,4 @@ data = [
         "author": "Tef",
         "quote": "Write code that is easy to delete, not easy to extend."
     }
-];
+]
