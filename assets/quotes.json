@@ -306,47 +306,47 @@
     },
     {
         "number": "62",
-        "author": "Tef",
-        "quote": "Write code that is easy to delete, not easy to extend."
+        "author": "John Woods",
+        "quote": "Always code as if the guy who ends up maintaining your code will be a violent psycopath who knows where you live."
     },
     {
         "number": "63",
-        "author": "Tef",
-        "quote": "Write code that is easy to delete, not easy to extend."
+        "author": "Anonymous",
+        "quote": "Artificial Intelligence usually beats natural stupidity."
     },
     {
         "number": "64",
-        "author": "Tef",
-        "quote": "Write code that is easy to delete, not easy to extend."
+        "author": "Steve Maguire",
+        "quote": "Fix the cause, not the symptom."
     },
     {
         "number": "65",
-        "author": "Tef",
-        "quote": "Write code that is easy to delete, not easy to extend."
+        "author": "Robert C. Martin",
+        "quote": "Even Bad code can function. But if the code isn't clean, it can bring a development organization to its knees."
     },
     {
         "number": "66",
-        "author": "Tef",
-        "quote": "Write code that is easy to delete, not easy to extend."
+        "author": "Leonardo Da Vinci",
+        "quote": "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things"
     },
     {
-        "number": "67",
+        "number": "Robert C. Martin",
         "author": "Tef",
-        "quote": "Write code that is easy to delete, not easy to extend."
+        "quote": "There are two parts to learning craftsmanship: knowledge and work. You must gain the knowledge of principles, patterns, practices, and heuristics that a craftsman knows, and you must also grind that knowledge into your fingers, eyes, and gut by working hard and practicing."
     },
     {
         "number": "68",
-        "author": "Tef",
-        "quote": "Write code that is easy to delete, not easy to extend."
+        "author": "John Sonmez",
+        "quote": "Programming today involves utilizing libraries and frameworks more than language features."
     },
     {
-        "number": "69",
+        "number": "Robert C. Martin",
         "author": "Tef",
-        "quote": "Write code that is easy to delete, not easy to extend."
+        "quote": "So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read."
     },
     {
         "number": "70",
-        "author": "Tef",
-        "quote": "Write code that is easy to delete, not easy to extend."
+        "author": "John Sonmez",
+        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
     }
 ]
