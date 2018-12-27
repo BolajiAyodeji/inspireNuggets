@@ -348,5 +348,45 @@
         "number": "70",
         "author": "John Sonmez",
         "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
-    }
+    },
+    {
+        "number": "71",
+        "author": "Marcus Garvey",
+        "quote": "Whatsoever things common to man, that man has done, man can do."
+	},
+	 {
+        "number": "72",
+        "author": "Oluwabamis",
+        "quote": "There is a thin line between procastination and laziness. Ask yourself do you want to cross the line?"
+	},
+	{
+        "number": "73",
+        "author": "Anonymous",
+        "quote": "Dont get scared get started"
+	}
+	{
+        "number": "74",
+        "author": "Oswald Chambers",
+        "quote": "The whole point of getting things done is knowing what is to leave undone"
+	},
+	{
+        "number": "75",
+        "author": "Anonymous",
+        "quote": "Dont tell people your dreams. Show them"
+	},
+	{
+        "number": "76",
+        "author": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "quote": "Martin Fowler"
+	},
+	{
+        "number": "77",
+        "author": "Jason Fried & David Heinemeier Hansson, ReWork",
+        "quote": "When you’re high on inspiration, you can get two weeks worth of work done in twenty-four hours."
+	},
+	{
+        "number": "78",
+        "author": "Henry Ford",
+        "quote": "Whether you think you can or you can't, you are right!"
+	}
 ]
