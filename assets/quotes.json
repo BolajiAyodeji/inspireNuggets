@@ -351,52 +351,52 @@
     },
     {
         "number": "71",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+        "author": "Miguel de Icaza",
+        "quote": "Every piece of software written today is likely going to infringe on someone else’s patent."
     },
     {
         "number": "72",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+        "author": "Anonymous",
+        "quote": "All computers wait at the same speed."
     },
     {
         "number": "73",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+        "author": "Anonymous",
+        "quote": "A misplaced decimal point will always end up where it will do the greatest damage."
     },
     {
         "number": "74",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+        "author": "Anonymous",
+        "quote": "A good programmer looks both ways before crossing a one-way street."
     },
     {
         "number": "75",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+        "author": "John Johnson",
+        "quote": "First, solve the problem. Then, write the code."
     },
     {
         "number": "76",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+        "author": "Oscar Wilde",
+        "quote": "Experience is the name everyone gives to their mistakes."
     },
     {
         "number": "77",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+        "author": "Anonymous",
+        "quote": "Hey! It compiles! Ship it!"
     },
     {
         "number": "78",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+        "author": "Anonymous",
+        "quote": "Computers make very fast, very accurate mistakes."
     },
     {
         "number": "79",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+        "author": "Coco Chanel",
+        "quote": "In order to be irreplaceable, one must always be different."
     },
     {
         "number": "80",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+        "author": "Larry Wall",
+        "quote": "Just don’t create a file called -rf."
     }
 ]
