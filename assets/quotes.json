@@ -27,7 +27,7 @@
     {
         "number": "6",
         "author": "Bill Cahan",
-        "quote": "We unfortunately live in a corporate world where group decision making is made to avoid failure rather than to achieve success."
+        "quote": "We, unfortunately, live in a corporate world where group decision making is made to avoid failure rather than to achieve success."
     },
     {
         "number": "7",
@@ -42,7 +42,7 @@
     {
         "number": "9",
         "author": "Milton Glaser",
-        "quote": "The real issue is not talent as an independent element, but talent in relationship to will, desire, and persistence. Talent without these things vanishes and even modest talent with those characteristics grows."
+        "quote": "The real issue is not talent as an independent element, but the talent in relationship to will, desire, and persistence. Talent without these things vanishes and even modest talent with those characteristics grows."
     },
     {
         "number": "10",
@@ -57,7 +57,7 @@
     {
         "number": "12",
         "author": "Andrew Lewis",
-        "quote": "I love the comment, “You must love designing for a living.” At that point I usually start to laugh or break into uncontrollable tears."
+        "quote": "I love the comment, “You must love designing for a living.” At that point, I usually start to laugh or break into uncontrollable tears."
     },
     {
         "number": "13",
@@ -87,7 +87,7 @@
     {
         "number": "18",
         "author": "Seun Daramola",
-        "quote": "To be relevant in the industry you MUST posses JavaScript skills as a front-end engineer. I know people who get hired earning real dollars with just sound react skills with little or no design sense. The styling part of things is something you can easily pick along the way. We must raise people who are relevant to the industry"
+        "quote": "To be relevant in the industry you MUST possess JavaScript skills as a front-end engineer. I know people who get hired earning real dollars with just sound react skills with little or no design sense. The styling part of things is something you can easily pick along the way. We must raise people who are relevant to the industry"
     },
     {
         "number": "19",
@@ -127,7 +127,7 @@
     {
         "number": "26",
         "author": "Stephen Fry",
-        "quote": "As if a device can function if it has no style. As if a device can be called stylish that does not function superbly… yes, beauty matters. Boy, does it matter. It is not surface, it is not an extra, it is the thing itself."
+        "quote": "As if a device can function if it has no style. As if a device can be called stylish that does not function superbly… yes, beauty matters. Boy, does it matter? It is not surface, it is not an extra, it is the thing itself."
     },
     {
         "number": "27",
@@ -137,7 +137,7 @@
     {
         "number": "28",
         "author": "Ryan Singer",
-        "quote": "Good ideas turn into good designs fairly quickly. If you catch yourself fiddling too much with colors, borders and treatments to bring a design together, chances are the problem lies somewhere deeper."
+        "quote": "Good ideas turn into good designs fairly quickly. If you catch yourself fiddling too much with colours, borders and treatments to bring a design together, chances are the problem lies somewhere deeper."
     },
     {
         "number": "29",
@@ -157,7 +157,7 @@
     {
         "number": "32",
         "author": "William Addison Dwiggins",
-        "quote": "In the matter of layout, forget art and use horse-sense. The printer-designer’s whole duty is to make a clear presentation of the message… This calls for an exercise of common sense and faculty of analysis rather than for art."
+        "quote": "In the matter of layout, forget art and use horse-sense. The printer designers whole duty is to make a clear presentation of the message… This calls for an exercise of common sense and faculty of analysis rather than for art."
     },
     {
         "number": "33",
@@ -202,27 +202,27 @@
     {
         "number": "41",
         "author": "Master Yuan-Ma",
-        "quote": "Below the surface of the machine, the program moves. Withouteffort, it expands and contracts. In great harmony, electrons scatterand regroup. The forms on the monitor are but ripples on the water.The essence stays invisibly below."
+        "quote": "Below the surface of the machine, the program moves. Without effort, it expands and contracts. In great harmony, electrons scatter and regroup. The forms on the monitor are but ripples on the water. The essence stays invisibly below."
     },
     {
         "number": "42",
         "author": "Donald Knuth",
-        "quote": "People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things thatbuild on each other, like a wall of mini stones.”"
+        "quote": "People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."
     },
     {
         "number": "43",
         "author": "Charles Babbage",
-        "quote": "On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."
+        "quote": "On two occasions I have been asked, ‘Pray, Mr Babbage, if you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."
     },
     {
         "number": "44",
         "author": "C.A.R. Hoare",
-        "quote": "There are two ways of constructing a software design: One way isto make it so simple that there are obviously no deficiencies, and theother way is to make it so complicated that there are no obviousdeficiencies."
+        "quote": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."
     },
     {
         "number": "45",
         "author": "Barbara Liskov",
-        "quote": "An abstract data type is realized by writing a special kind of program which defines the type in terms of the operations which can beperformed on it."
+        "quote": "An abstract data type is realized by writing a special kind of program which defines the type in terms of the operations which can be performed on it."
     },
     {
         "number": "46",
@@ -237,12 +237,12 @@
     {
         "number": "48",
         "author": "Brian Kernighan and P.J. Plauger,",
-        "quote": "Debugging is twice as hard as writing the code in the first place.Therefore, if you write the code as cleverly as possible, you are, bydefinition, not smart enough to debug it."
+        "quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
     },
     {
         "number": "49",
         "author": "Jamie Zawinski",
-        "quote": "Some people, when confronted with a problem, think ‘I know, I’lluse regular expressions.’ Now they have two problems."
+        "quote": "Some people, when confronted with a problem, think ‘I know, I'll use regular expressions.’ Now they have two problems."
     },
     {
         "number": "50",
@@ -252,7 +252,7 @@
     {
         "number": "51",
         "author": "Otemuyiwa Prosper",
-        "quote": "The excitement of learning is gold, take your time and enjoy every bit of it, there’s really no rush and “getting there”, because the moment you think you are there, you start to decline"
+        "quote": "The excitement of learning is gold, take your time and enjoy every bit of it, there’s really no rush and “getting there” because the moment you think you are there, you start to decline"
     },
     {
         "number": "52",
@@ -262,7 +262,7 @@
     {
         "number": "53",
         "author": "Steve Jobs",
-        "quote": "Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them"
+        "quote": "Technology is nothing. What's important is that you have faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them"
     },
     {
         "number": "54",
@@ -307,7 +307,7 @@
     {
         "number": "62",
         "author": "John Woods",
-        "quote": "Always code as if the guy who ends up maintaining your code will be a violent psycopath who knows where you live."
+        "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
     },
     {
         "number": "63",
@@ -332,7 +332,7 @@
     {
         "number": "67",
         "author": "Robert C. Martin",
-        "quote": "There are two parts to learning craftsmanship: knowledge and work. You must gain the knowledge of principles, patterns, practices, and heuristics that a craftsman knows, and you must also grind that knowledge into your fingers, eyes, and gut by working hard and practicing."
+        "quote": "There are two parts to learning craftsmanship: knowledge and work. You must gain the knowledge of principles, patterns, practices, and heuristics that a craftsman knows, and you must also grind that knowledge into your fingers, eyes, and gut by working hard and practising."
     },
     {
         "number": "68",
@@ -342,7 +342,7 @@
     {
         "number": "69",
         "author": "Robert C. Martin",
-        "quote": "So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read."
+        "quote": "So if you want to go fast if you want to get done quickly if you want your code to be easy to write, make it easy to read."
     },
     {
         "number": "70",
