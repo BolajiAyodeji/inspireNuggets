@@ -27,7 +27,7 @@ A Chrome Extension that displays random inspiring techie quotes for developers/d
 4.  Enter the cloned directory <br>
 `cd inspireNuggets`
 
-5.  Open dorectory in your Code Editor <br>
+5.  Open directory in your Code Editor <br>
 `code .`
 
 6.  Load the extension in Developer's Mode as 'UnPacked'

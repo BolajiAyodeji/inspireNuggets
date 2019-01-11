@@ -398,5 +398,10 @@
         "number": "80",
         "author": "Larry Wall",
         "quote": "Just don’t create a file called -rf."
+    },
+    {
+        "number": "81",
+        "author": "Favour Chukwuedo",
+        "quote": "Life is too short; wake up earlier!"
     }
 ]
