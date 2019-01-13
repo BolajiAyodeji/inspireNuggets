@@ -447,5 +447,55 @@
         "number": "90",
         "author": "Jeff Atwood",
         "quote": "We have to stop optimizing for programmers and start optimizing for users."
+    },
+    {
+        "number": "91",
+        "author": "Bill Gates",
+        "quote": "The computer was born to solve problems that did not exist before."
+    },
+    {
+        "number": "92",
+        "author": "Anonymous",
+        "quote": "Real programmers don't comment their code. If it was hard to write, it should be hard to understand."
+    },
+    {
+        "number": "93",
+        "author": "Norm Schryer",
+        "quote": " If the code and the comments do not match, possibly both are incorrect."
+    },
+    {
+        "number": "94",
+        "author": "Linus Torvalds",
+        "quote": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships."
+    },
+    {
+        "number": "95",
+        "author": "Jeremy Hammond",
+        "quote": "Your mind is programmable - if you're not programming your mind, something else will program it for you. - "
+    },
+    {
+        "number": "96",
+        "author": "William Laeder",
+        "quote": "Debugging becomes significantly easier if you first admit that you are the problem. "
+    },
+    {
+        "number": "97",
+        "author": "Anonymous",
+        "quote": "Any fool can write code that a computer can understand.Good programmers write code that humans can understand."
+    },
+    {
+        "number": "98",
+        "author": "John Johnson",
+        "quote": "First, solve the problem Then write the code"
+    },
+    {
+        "number": "99",
+        "author": "Grady Booch",
+        "quote": "The function of a good software is to make the complex appear to be simple. "
+    },
+    {
+        "number": "100",
+        "author": "Blaise Pascal",
+        "quote": "Small minds are concerned with the extraordinary, great minds with the ordinary."
     }
 ]
