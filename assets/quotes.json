@@ -404,48 +404,48 @@
         "quote": "Life is too short; wake up earlier!"
     },
     {
-        "number": "81",
-        "author": "Favour Chukwuedo",
-        "quote": "Life is too short; wake up earlier!"
+        "number": "82",
+        "author": "Anonymous",
+        "quote": "Don't worry if it doesn't work right, If everything did, you'd be out of the job."
     },
     {
-        "number": "81",
-        "author": "Favour Chukwuedo",
-        "quote": "Life is too short; wake up earlier!"
+        "number": "83",
+        "author": "Brian Kernighan",
+        "quote": "Don't comment bad code - rewrite it."
     },
     {
-        "number": "81",
-        "author": "Favour Chukwuedo",
-        "quote": "Life is too short; wake up earlier!"
+        "number": "84",
+        "author": "Paul Graham",
+        "quote": "A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen."
     },
     {
-        "number": "81",
-        "author": "Favour Chukwuedo",
-        "quote": "Life is too short; wake up earlier!"
+        "number": "85",
+        "author": "Dan Salomon",
+        "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code"
     },
     {
-        "number": "81",
-        "author": "Favour Chukwuedo",
-        "quote": "Life is too short; wake up earlier!"
+        "number": "86",
+        "author": "Vidiu Platon",
+        "quote": "I don't care if it works on your machine! We are not shipping your machine!"
     },
     {
-        "number": "81",
-        "author": "Favour Chukwuedo",
-        "quote": "Life is too short; wake up earlier!"
+        "number": "87",
+        "author": "Anonymous",
+        "quote": "Software undergoes beta testing shortly before it's released. Beta is latin for 'still doesn't work'"
     },
     {
-        "number": "81",
-        "author": "Favour Chukwuedo",
-        "quote": "Life is too short; wake up earlier!"
+        "number": "88",
+        "author": "Edsger W. Dijkstra",
+        "quote": "If debudding is the process of removing software bugs, then programming must be the process of putting them in."
     },
     {
-        "number": "81",
-        "author": "Favour Chukwuedo",
-        "quote": "Life is too short; wake up earlier!"
+        "number": "89",
+        "author": "Mark Zuckerberg",
+        "quote": "People don't care about what you say, they care about what you build."
     },
     {
-        "number": "81",
-        "author": "Favour Chukwuedo",
-        "quote": "Life is too short; wake up earlier!"
+        "number": "90",
+        "author": "Jeff Atwood",
+        "quote": "We have to stop optimizing for programmers and start optimizing for users."
     }
 ]
