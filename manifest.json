@@ -3,7 +3,7 @@
     "name": "inspireNuggets for Chrome",
     "short_name": "inspireNuggets",
     "description": "inspireNuggets displays random inspiring techie quotes for developers/designers.",
-    "version": "2.4",
+    "version": "2.5",
     "author": "Bolaji Ayodeji",
     "icons": {
         "500": "img/chrome-icon.png"
@@ -16,6 +16,7 @@
     "chrome_url_overrides": {
         "newtab": "newtab.html"
     },
-    "permissions": ["activeTab"]
-
+    "permissions": [
+        "activeTab"
+    ]
 }
