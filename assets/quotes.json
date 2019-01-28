@@ -1,4 +1,5 @@
-[{
+[
+    {
         "number": "1",
         "author": "Von R. Glitschka",
         "quote": "The client may be king, but he's not the art director."
@@ -497,5 +498,25 @@
         "number": "100",
         "author": "Blaise Pascal",
         "quote": "Small minds are concerned with the extraordinary, great minds with the ordinary."
+    },
+    {
+        "number": "101",
+        "author": "Naser Dabit",
+        "quote": "One thing I take pride in is lifting up everyone, I feel like our industry has developed popular cliques that only help each other out."
+    },
+    {
+        "number": "102",
+        "author": "Dan Abramov",
+        "quote": "I love React. As a user. Still feels liberating."
+    },
+    {
+        "number": "103",
+        "author": "Naser Dabit",
+        "quote": "I think basically any company hiring right now will be using a framework of some sort. Nothing wrong with learning the framework as early as possible even if you're still polishing your JavaScript skills."
+    },
+    {
+        "number": "104",
+        "author": "Nader Dabit",
+        "quote": "It's usually who you know vs what you know. Getting your foot in the door is the most important thing to do. Once you get an opportunity you can prove yourself & from there you'll have tons more opportunities."
     }
 ]
