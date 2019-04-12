@@ -15,7 +15,7 @@ Submit a/your Quote [here](https://goo.gl/forms/a7F16zmOKFCCw6483)
 
 Contibutor's Guide [here](https://github.com/BolajiAyodeji/inspireNuggets/blob/master/docs/README.md)
 
-![Extension Demo](https://res.cloudinary.com/iambeejayayo/image/upload/v1544623688/inspire.gif)
+![Extension Demo](img/demo.gif)
 
 </div>
 
