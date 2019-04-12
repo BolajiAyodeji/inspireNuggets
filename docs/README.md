@@ -41,7 +41,7 @@ A Chrome Extension that displays random inspiring techie quotes for developers/d
     - Open a `New Tab` to preview the extension
     - Now when you make changes to the cloned repository, this Unpacked Extension would be updated
 
-All Quotes are stored in a JSON file which can be found here `assets/quotes.json`
+All Quotes are stored in a JSON file which can be found here `src/quotes.json`
 Quotes are stored in this format
 ```
 [
