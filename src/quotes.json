@@ -492,7 +492,7 @@
     {
         "number": "99",
         "author": "Grady Booch",
-        "quote": "The function of a good software is to make the complex appear to be simple. "
+        "quote": "The function of a good software is to make the complex appear to be simple."
     },
     {
         "number": "100",
@@ -518,5 +518,85 @@
         "number": "104",
         "author": "Nader Dabit",
         "quote": "It's usually who you know vs what you know. Getting your foot in the door is the most important thing to do. Once you get an opportunity you can prove yourself & from there you'll have tons more opportunities."
+    },
+    {
+        "number": "105",
+        "author": "Matt Mullenweg",
+        "quote": "Technology is best when it brings people together."
+    },
+    {
+        "number": "106",
+        "author": "Clive James",
+        "quote": "It is only when they go wrong that machines remind you how powerful they are."
+    },
+    {
+        "number": "107",
+        "author": "Tim Berners-Lee",
+        "quote": "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past."
+    },
+    {
+        "number": "108",
+        "author": "Stewart Brand",
+        "quote": "TOnce a new technology rolls over you, if you're not part of the steamroller, you're part of the road."
+    },
+    {
+        "number": "109",
+        "author": "Douglas Adams",
+        "quote": "We are stuck with technology when what we really want is just stuff that works."
+    },
+    {
+        "number": "110",
+        "author": "R. Buckminster Fuller",
+        "quote": "Humanity is acquiring all the right technology for all the wrong reasons."
+    },
+    {
+        "number": "111",
+        "author": "Arthur C. Clarke",
+        "quote": "Any sufficiently advanced technology is equivalent to magic."
+    },
+    {
+        "number": "112",
+        "author": "Mark Kennedy",
+        "quote": "All of the biggest technological inventions created by man - the airplane, the automobile, the computer - says little about his intelligence, but speaks volumes about his laziness."
+    },
+    {
+        "number": "113",
+        "author": "Pablo Picasso",
+        "quote": "Computers are useless.  They can only give you answers."
+    },
+    {
+        "number": "114",
+        "author": "Don DeLillo",
+        "quote": "This is the whole point of technology.  It creates an appetite for immortality on the one hand.  It threatens universal extinction on the other. Technology is lust removed from nature."
+    },
+    {
+        "number": "115",
+        "author": "Sydney Harris",
+        "quote": "The real danger is not that computers will begin to think like men, but that men will begin to think like computers."
+    },
+    {
+        "number": "116",
+        "author": "Arthur Schlesinger",
+        "quote": "Science and technology revolutionize our lives, but memory, tradition and myth frame our response."
+    },
+    {
+        "number": "117",
+        "author": "Dave Barry",
+        "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."
+    },
+    {
+        "number": "118",
+        "author": "J.K. Rowling",
+        "quote": "Microsoft has a new version out, Windows XP, which according to everybody is the ‘most reliable Windows ever.‘ To me, this is like saying that asparagus is ‘the most articulate vegetable ever."
+    },
+    {
+        "number": "119",
+        "author": "Pablo Picasso",
+        "quote": "Never trust anything that can think for itself if you can't see where it keeps its brain."
+    },
+    {
+        "number": "200",
+        "author": "Frank Lloyd Wright",
+        "quote": "A computer lets you make more mistakes faster than any invention in human history-with the possible exceptions of handguns and tequila."
     }
 ]
