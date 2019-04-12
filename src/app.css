@@ -6,11 +6,11 @@ body {
     background-size: cover;
     text-align: center;
     font-weight: 100;
-    font-family: 'Maven Pro';
+    font-family: 'Roboto Mono', monospace;
 }
 
 hr {
-
+    border-top: 1px dashed #ddd;
 }
 
 .container {
