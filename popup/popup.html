@@ -3,8 +3,109 @@
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="popup.css">
     <title>inspireNuggets</title>
+
+    <style>
+        @import url('../css/font.css');
+
+        html,
+        body,
+        div,
+        a,
+        form,
+        header,
+        footer,
+        h1,
+        p {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font: inherit;
+            font-size: 100%;
+            vertical-align: baseline;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        html {
+            font-size: 62.5%;
+            box-sizing: border-box;
+        }
+
+        body {
+            line-height: 1.4;
+            font-family: 'Maven Pro';
+            font-size: 1.4rem;
+            color: rgb(30, 30, 30);
+        }
+
+        a {
+            color: inherit;
+        }
+
+        body {
+            width: 250px;
+            background: rgb(245, 245, 245);
+        }
+
+        header,
+        form,
+        footer {
+            padding: 15px;
+        }
+
+        header {
+            background: -webkit-linear-gradient(top, #8dd193, #3f888f);
+            background: -o-linear-gradient(top, #8dd193, #3f888f);
+            background: linear-gradient(to left, #8dd193, #3f888f);
+            padding: 10px;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        footer {
+            font-size: 1.5rem;
+            text-align: center;
+            display: block;
+            border-top: 1px solid rgb(220, 220, 220)
+        }
+
+        .button-group {
+            margin-top: 15px;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        button {
+            display: inline-block;
+            height: 40px;
+            box-shadow: 0 1px 3px 0 hsla(40, 3%, 45%, .35);
+            border: 0;
+            border-radius: 3px;
+            font-size: 1.3rem;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        button#trigger {
+            width: 100%;
+            background: -webkit-linear-gradient(top, #8dd193, #3f888f);
+            background: -o-linear-gradient(top, #8dd193, #3f888f);
+            background: linear-gradient(to left, #8dd193, #3f888f);
+            color: #fff;
+        }
+
+        button#trigger img {
+            width: 20%;
+            height: auto;
+        }
+    </style>
 </head>
 
 <body>
@@ -13,7 +114,7 @@
     </header>
     <form>
         <div class="button-group">
-            <button id="trigger" type="button" onclick="refreshQuote();" disabled>
+            <button id="trigger" type="button" disabled>
                 <img src="/img/flyy.gif">
             </button>
         </div>
@@ -23,8 +124,6 @@
         Developed By
         <a href="https://github.com/BolajiAyodeji" rel="noopener" target="_blank">Bolaji Ayodeji</a>
     </footer>
-
-    <script src="popup.js "></script>
 </body>
 
 </html>

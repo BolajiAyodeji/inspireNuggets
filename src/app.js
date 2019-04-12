@@ -1,6 +1,6 @@
 let request = new XMLHttpRequest();
 
-request.open("GET", "assets/quotes.json", true);
+request.open("GET", "src/quotes.json", true);
 request.onload = () => {
     if(request.status>=200 && request.status<400) {
         let data = JSON.parse(request.responseText),
@@ -8,12 +8,9 @@ request.onload = () => {
 
         document.getElementById('quote').innerHTML = data[random].quote;
         document.getElementById('author').innerHTML = data[random].author;
-        console.log(data[random].quote);
-        console.log(data[random].author);
     }
 };
 request.onerror = () => {
-    console.log("404, JSON not found!")
+    console.log("Something went wrong...")
 }
-
 request.send();
