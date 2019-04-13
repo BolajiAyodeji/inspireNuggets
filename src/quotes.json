@@ -598,5 +598,30 @@
         "number": "200",
         "author": "Frank Lloyd Wright",
         "quote": "The computer lets you make more mistakes faster than any invention in human history with the possible exceptions of handguns and tequila."
+    },
+    {
+        "number": "201",
+        "author": "Harold Abelson",
+        "quote": "Programs must be written for people to read, and only incidentally for machines to execute."
+    },
+    {
+        "number": "202",
+        "author": "Alan J. Peris",
+        "quote": "A language that doesn't affect the way you think about programming is not worth learning."
+    },
+    {
+        "number": "203",
+        "author": "Edward V. Berad",
+        "quote": "Walking on water and developing software from a specification are easy if both are frozen."
+    },
+    {
+        "number": "204",
+        "author": "C.A.R. Hoare",
+        "quote": "The most important property of a program is whether it accomplishes the intentions of it's user."
+    },
+    {
+        "number": "205",
+        "author": "Linus Torvalds",
+        "quote": "Talk is cheap. Show me the code."
     }
 ]
