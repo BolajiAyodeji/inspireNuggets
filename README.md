@@ -2,7 +2,7 @@
 
 ![inspireNuggets](/tab-icon.png)
 
-A Chrome Extension that displays random inspiring techie quotes for developers/designers. :fire:
+A Chrome Browser Extension that displays random inspiring techie quotes for developers/designers. :fire:
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
