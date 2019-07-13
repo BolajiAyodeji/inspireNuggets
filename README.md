@@ -33,7 +33,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt="Bolaji Ayodeji"/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/inspireNuggets/commits?author=bolajiayodeji" title="Code">💻</a></td><td align="center"><a href="https://github.com/Ekwuno"><img src="https://avatars1.githubusercontent.com/u/35943047?v=4" width="100px;" alt="Ekwuno Obinna"/><br /><sub><b>Ekwuno Obinna</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/inspireNuggets/commits?author=Ekwuno" title="Code">💻</a></td></tr></table>
+<table>
+  <tr>
+    <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt="Bolaji Ayodeji"/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/inspireNuggets/commits?author=bolajiayodeji" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Ekwuno"><img src="https://avatars1.githubusercontent.com/u/35943047?v=4" width="100px;" alt="Ekwuno Obinna"/><br /><sub><b>Ekwuno Obinna</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/inspireNuggets/commits?author=Ekwuno" title="Code">💻</a></td>
+  </tr>
+</table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
