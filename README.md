@@ -24,4 +24,4 @@ Contributor's Guide [here](https://github.com/BolajiAyodeji/inspireNuggets/blob/
 [Bolaji Ayodeji](https://github.com/BolajiAyodeji)
 
 ## Licence
-[MIT](https://opensource.org/licenses/MIT
+[MIT](https://opensource.org/licenses/MIT)
