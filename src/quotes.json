@@ -623,5 +623,10 @@
         "number": "205",
         "author": "Linus Torvalds",
         "quote": "Talk is cheap. Show me the code."
+    },
+    {
+        "number": "206",
+        "author": "David Adigwu",
+        "quote": "Respect senior developers but fear junior developers, they are likely to create the next big software."
     }
 ]
