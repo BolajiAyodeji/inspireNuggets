@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Official-David",
+      "name": "David Adigwu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33360177?v=4",
+      "profile": "https://github.com/Official-David",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "inspireNuggets",
+  "projectOwner": "BolajiAyodeji",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
