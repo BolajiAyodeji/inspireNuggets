@@ -628,5 +628,25 @@
         "number": "206",
         "author": "David Adigwu",
         "quote": "Respect senior developers but fear junior developers, they are likely to create the next big software."
+    },
+    {
+        "number": "207",
+        "author": "Kelly Vaughn",
+        "quote": "What is this? ~ A memoir by a JavaSCript programmer."
+    },
+    {
+        "number": "208",
+        "author": "Suz Hinton",
+        "quote": "Beginner developers need empathy from established programmers and good technical mentors more than anything. Knowing they're making progress via external feedback and validation will pull them out of the inevitable tough moments in their journey."
+    },
+    {
+        "number": "209",
+        "author": "Bill Gates",
+        "quote": "Your most unhappy customers are your greatest source of learning."
+    },
+    {
+        "number": "210",
+        "author": "Anonymous",
+        "quote": "The purpose of software engineering is to control complexity, not to create it."
     }
 ]
