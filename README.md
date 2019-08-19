@@ -15,7 +15,7 @@ Submit a/your Quote [here](https://goo.gl/forms/a7F16zmOKFCCw6483)
 
 Contributor's Guide [here](https://github.com/BolajiAyodeji/inspireNuggets/blob/master/docs/README.md)
 
-![Extension Demo](https://www.youtube.com/watch?v=GY9zRdJWQR4)
+[![Extension Demo](http://img.youtube.com/vi/GY9zRdJWQR4/0.jpg)](http://www.youtube.com/watch?v=GY9zRdJWQR4 "Extension Demo")
 
 </div>
 
