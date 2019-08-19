@@ -537,7 +537,7 @@
     {
         "number": "108",
         "author": "Stewart Brand",
-        "quote": "TOnce a new technology rolls over you, if you're not part of the steamroller, you're part of the road."
+        "quote": "Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road."
     },
     {
         "number": "109",
@@ -648,5 +648,65 @@
         "number": "210",
         "author": "Anonymous",
         "quote": "The purpose of software engineering is to control complexity, not to create it."
+    },
+    {
+        "number": "211",
+        "author": "Bolaji Ayodeji",
+        "quote": "Automating tasks in your workflow can free up time for you to focus on more pressing tasks. This might be using aliases, starter boilerplates, bash scripts and all that."
+    },
+    {
+        "number": "212",
+        "author": "freeCodeCamp",
+        "quote": "When you get stuck, remember to: Read the documentation or error, Search Google and Ask for help"
+    },
+    {
+        "number": "213",
+        "author": "Norman Vincent Peale",
+        "quote": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."
+    },
+    {
+        "number": "214",
+        "author": "John Carmack",
+        "quote": "Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better."
+    },
+    {
+        "number": "215",
+        "author": "Devloper",
+        "quote": "Stack Overflow's great when people choose to demonstrate their intelligence by insulting your approach rather than answering the question or providing substantive guidance."
+    },
+    {
+        "number": "216",
+        "author": "Bill Gates",
+        "quote": "At Microsoft there are lots of brilliant ideas, but the image is that they all come from the top — I’m  afraid that’s not quite right."
+    },
+    {
+        "number": "217",
+        "author": "Devloper",
+        "quote": "MongoDB, it's like the Dory from Finding Nemo of databases"
+    },
+    {
+        "number": "218",
+        "author": "Bill Gates",
+        "quote": "We’re responsible for the creation of the PC industry. The whole idea of compatible machines and lots of software.. that’s something we brought to computing. And so it’s a responsibility for us to make sure that things like security don’t get in the way of that dream."
+    },
+    {
+        "number": "219",
+        "author": "Devloper",
+        "quote": "Doctors in the 1940s: Smoke, it's good for you. Zuck in the 2000s: Join Facebook, it's good for you"
+    },
+    {
+        "number": "220",
+        "author": "Bill Gates",
+        "quote": "People always fear change. People feared electricity when it was invented, didn’t they?"
+    },
+    {
+        "number": "221",
+        "author": "Bill Gates",
+        "quote": "If you can’t make it good, at least make it look good."
+    },
+    {
+        "number": "222",
+        "author": "Bill Gates",
+        "quote": "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."
     }
 ]
