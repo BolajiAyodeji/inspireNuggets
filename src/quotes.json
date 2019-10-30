@@ -708,5 +708,25 @@
         "number": "222",
         "author": "Bill Gates",
         "quote": "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."
+    },
+    {
+      "number":"223",
+      "author":"Ron Jeffries",
+      "quote": "Code never lies, comments sometimes do."
+    },
+    {
+      "number": "224",
+      "author":"Rick Cook",
+      "quote":"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning."
+    },
+    {
+      "number":"225",
+      "author":"Kent Beck",
+      "quote":"I'm not a great programmer; I'm just a good programmer with great habits."
+    },
+    {
+      "number":"226",
+      "author":"Robert C. Martin",
+      "quote":"Truth can only be found in one place: the code"
     }
 ]
