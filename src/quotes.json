@@ -708,5 +708,25 @@
         "number": "222",
         "author": "Bill Gates",
         "quote": "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."
+    },
+    {
+        "number": "223",
+        "author": "Martin Fowler",
+        "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+    },
+    {
+        "number": "224",
+        "author": "Martin Fowler",
+        "quote": "I’m not a great programmer; I’m just a good programmer with great habits."
+    },
+    {
+        "number": "225",
+        "author": "Martin Fowler",
+        "quote": "Poorly designed code usually takes more code to do the same things, often because the code quite literally does the same thing in several places."
+    },
+    {
+        "number": "226",
+        "author": "Martin Fowler",
+        "quote": "Repetition is the root of all software evil."
     }
 ]
