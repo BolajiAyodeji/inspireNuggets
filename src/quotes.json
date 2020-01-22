@@ -1,732 +1,752 @@
 [
-    {
-        "number": "1",
-        "author": "Von R. Glitschka",
-        "quote": "The client may be king, but he's not the art director."
-    },
-    {
-        "number": "2",
-        "author": "Frank Capra",
-        "quote": "A hunch is creativity trying to tell you something."
-    },
-    {
-        "number": "3",
-        "author": "Steven Heller",
-        "quote": "As a profession, graphic designers have been shamefully remiss or ineffective about plying their craft for social or political betterment."
-    },
-    {
-        "number": "4",
-        "author": "Isaac Bashevis Singer",
-        "quote": "Every creator painfully experiences the chasm between his inner vision and its ultimate expression."
-    },
-    {
-        "number": "5",
-        "author": "James Hague",
-        "quote": "It’s extremely difficult to be simultaneously concerned with the end-user experience of whatever it is that you’re building and the architecture of the program that delivers that experience."
-    },
-    {
-        "number": "6",
-        "author": "Bill Cahan",
-        "quote": "We, unfortunately, live in a corporate world where group decision making is made to avoid failure rather than to achieve success."
-    },
-    {
-        "number": "7",
-        "author": "Michael Stinson",
-        "quote": "Letterspacing creates speedbumps for the reader."
-    },
-    {
-        "number": "8",
-        "author": "Ernest Hemingway",
-        "quote": "Write drunk; edit sober."
-    },
-    {
-        "number": "9",
-        "author": "Milton Glaser",
-        "quote": "The real issue is not talent as an independent element, but the talent in relationship to will, desire, and persistence. Talent without these things vanishes and even modest talent with those characteristics grows."
-    },
-    {
-        "number": "10",
-        "author": "Ricardo Zea",
-        "quote": "Learning Web Design is like playing video games: You start small and build your character as you progress, then you beat the boss, literally."
-    },
-    {
-        "number": "11",
-        "author": "Charles Mingus",
-        "quote": "Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that’s creativity."
-    },
-    {
-        "number": "12",
-        "author": "Andrew Lewis",
-        "quote": "I love the comment, “You must love designing for a living.” At that point, I usually start to laugh or break into uncontrollable tears."
-    },
-    {
-        "number": "13",
-        "author": "Brian Eno",
-        "quote": "Instead of shooting arrows at somebody else’s target… I make my own target around wherever my arrow has happened to have landed."
-    },
-    {
-        "number": "14",
-        "author": "Thomas Vasquez",
-        "quote": "I’ve always held to the belief that the practice of creating compelling graphic design occurs not by employing the principals of a democracy, but rather, that of a monarchy."
-    },
-    {
-        "number": "15",
-        "author": "Anton Fokker",
-        "quote": "Once the problem was stated, its solution came to me in a flash."
-    },
-    {
-        "number": "16",
-        "author": "Wim Crouwel",
-        "quote": "You can’t do better design with a computer, but you can speed up your work enormously."
-    },
-    {
-        "number": "17",
-        "author": "Bolaji Ayodeji",
-        "quote": "Keep it clear, simple and light; too many designs causes distractions."
-    },
-    {
-        "number": "18",
-        "author": "Seun Daramola",
-        "quote": "To be relevant in the industry you MUST possess JavaScript skills as a front-end engineer. I know people who get hired earning real dollars with just sound react skills with little or no design sense. The styling part of things is something you can easily pick along the way. We must raise people who are relevant to the industry"
-    },
-    {
-        "number": "19",
-        "author": "Ivan Chermayeff",
-        "quote": "Design is directed toward human beings. To design is to solve human problems by identifying them and executing the best solution."
-    },
-    {
-        "number": "20",
-        "author": "Benjamin Cavanagh",
-        "quote": "A computer without Photoshop is like a dog with no legs. Sure is fun, but you can’t really do anything with it."
-    },
-    {
-        "number": "21",
-        "author": "Albert Einstein",
-        "quote": "If you can’t explain it simply, you don’t understand it well enough."
-    },
-    {
-        "number": "22",
-        "author": "Bolaji Ayodeji",
-        "quote": "Use your time now to get the principles of design, understand and build perfect User Interfaces then add JavaScript to become complete."
-    },
-    {
-        "number": "23",
-        "author": "Ana Cummings",
-        "quote": "Inspired interiors indubitably involve ingenious imitations of inspired interiors."
-    },
-    {
-        "number": "24",
-        "author": "Tom Bissel",
-        "quote": "To create anything–whether a short story or a magazine profile or a film or a sitcom–is to believe, if only momentarily, you are capable of magic."
-    },
-    {
-        "number": "25",
-        "author": "Mike Monteiro",
-        "quote": "A good designer finds an elegant way to put everything you need on a page. A great designer convinces you half that shit is unnecessary."
-    },
-    {
-        "number": "26",
-        "author": "Stephen Fry",
-        "quote": "As if a device can function if it has no style. As if a device can be called stylish that does not function superbly… yes, beauty matters. Boy, does it matter? It is not surface, it is not an extra, it is the thing itself."
-    },
-    {
-        "number": "27",
-        "author": "John Mason Brown",
-        "quote": "The only true happiness comes from squandering ourselves for a purpose."
-    },
-    {
-        "number": "28",
-        "author": "Ryan Singer",
-        "quote": "Good ideas turn into good designs fairly quickly. If you catch yourself fiddling too much with colours, borders and treatments to bring a design together, chances are the problem lies somewhere deeper."
-    },
-    {
-        "number": "29",
-        "author": "James Hague",
-        "quote": "It’s extremely difficult to be simultaneously concerned with the end-user experience of whatever it is that you’re building and the architecture of the program that delivers that experience."
-    },
-    {
-        "number": "30",
-        "author": "Jonathan Ive",
-        "quote": "The word design is everything and nothing. The design and the product itself are inseparable."
-    },
-    {
-        "number": "31",
-        "author": "Chet Atkins",
-        "quote": "Copying one person is stealing. Copying ten is research."
-    },
-    {
-        "number": "32",
-        "author": "William Addison Dwiggins",
-        "quote": "In the matter of layout, forget art and use horse-sense. The printer designers whole duty is to make a clear presentation of the message… This calls for an exercise of common sense and faculty of analysis rather than for art."
-    },
-    {
-        "number": "33",
-        "author": "Jeremy Allison",
-        "quote": "We have to learn to see technical devices and software as others see them. Feeling a sense of pride in getting a device to do what we want doesn’t mean we’re clever, it means the design was wrong."
-    },
-    {
-        "number": "34",
-        "author": "Jamie Croft",
-        "quote": "My wife doesn’t like it”; Designer: “Well then, I don’t like your wife”"
-    },
-    {
-        "number": "35",
-        "author": "Hugh Macleod",
-        "quote": "Nobody can tell you if what you’re doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is."
-    },
-    {
-        "number": "36",
-        "author": "Tao Te Ching",
-        "quote": "Deal with the difficult while it is yet easy; Deal with the great while it is yet small."
-    },
-    {
-        "number": "37",
-        "author": "Hugh Macleod",
-        "quote": "Nobody can tell you if what you’re doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is."
-    },
-    {
-        "number": "38",
-        "author": "David Ogilvy",
-        "quote": "In most agencies, account executives outnumber the copywriters two to one. If you were a dairy farmer, would you employ twice as many milkers as you had cows?"
-    },
-    {
-        "number": "39",
-        "author": "Human Factors International",
-        "quote": "If the users can’t find it, the function’s not there."
-    },
-    {
-        "number": "40",
-        "author": "David Carson",
-        "quote": "Graphic design will save the world right after rock and roll does."
-    },
-    {
-        "number": "41",
-        "author": "Master Yuan-Ma",
-        "quote": "Below the surface of the machine, the program moves. Without effort, it expands and contracts. In great harmony, electrons scatter and regroup. The forms on the monitor are but ripples on the water. The essence stays invisibly below."
-    },
-    {
-        "number": "42",
-        "author": "Donald Knuth",
-        "quote": "People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."
-    },
-    {
-        "number": "43",
-        "author": "Charles Babbage",
-        "quote": "On two occasions I have been asked, ‘Pray, Mr Babbage, if you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."
-    },
-    {
-        "number": "44",
-        "author": "C.A.R. Hoare",
-        "quote": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."
-    },
-    {
-        "number": "45",
-        "author": "Barbara Liskov",
-        "quote": "An abstract data type is realized by writing a special kind of program which defines the type in terms of the operations which can be performed on it."
-    },
-    {
-        "number": "46",
-        "author": "Edsger Dijkstra",
-        "quote": "The question of whether Machines Can Think is about as relevant as the question of whether Submarines Can Swim."
-    },
-    {
-        "number": "47",
-        "author": "Chris Sevilleja",
-        "quote": "To know a person is to read their GitHub account"
-    },
-    {
-        "number": "48",
-        "author": "Brian Kernighan and P.J. Plauger,",
-        "quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
-    },
-    {
-        "number": "49",
-        "author": "Jamie Zawinski",
-        "quote": "Some people, when confronted with a problem, think ‘I know, I'll use regular expressions.’ Now they have two problems."
-    },
-    {
-        "number": "50",
-        "author": "Tef",
-        "quote": "Write code that is easy to delete, not easy to extend."
-    },
-    {
-        "number": "51",
-        "author": "Otemuyiwa Prosper",
-        "quote": "The excitement of learning is gold, take your time and enjoy every bit of it, there’s really no rush and “getting there” because the moment you think you are there, you start to decline"
-    },
-    {
-        "number": "52",
-        "author": "Bill Gates",
-        "quote": "The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency"
-    },
-    {
-        "number": "53",
-        "author": "Steve Jobs",
-        "quote": "Technology is nothing. What's important is that you have faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them"
-    },
-    {
-        "number": "54",
-        "author": "Satya Nadella",
-        "quote": "Our industry does not respect tradition it only respects innovation."
-    },
-    {
-        "number": "55",
-        "author": "Sukant Ratnakar",
-        "quote": "Innovation is the outcome of a habit, not a random act."
-    },
-    {
-        "number": "56",
-        "author": "PUSHON DEVS",
-        "quote": "How to avoid errors; console.clear();"
-    },
-    {
-        "number": "57",
-        "author": "Alexis Charytonow",
-        "quote": "Repeat after me, OAuth isn't an authorization protocol. It's a delegation protocol."
-    },
-    {
-        "number": "58",
-        "author": "PUSHON DEVS",
-        "quote": "Computers only do what you tell them to do, If its not working, you're doing it wrong"
-    },
-    {
-        "number": "59",
-        "author": "Ken Thompson",
-        "quote": "One of my productive days was throwing away 1000 lines of code"
-    },
-    {
-        "number": "60",
-        "author": "Otemuyiwa Prosper",
-        "quote": "A new day, another opportunity to know that excuses are tools in the hand of the incompetent."
-    },
-    {
-        "number": "61",
-        "author": "Bolaji Ayodeji",
-        "quote": "Take your time and learn the basics, If the foundation is weak, the house will fall."
-    },
-    {
-        "number": "62",
-        "author": "John Woods",
-        "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
-    },
-    {
-        "number": "63",
-        "author": "Anonymous",
-        "quote": "Artificial Intelligence usually beats natural stupidity."
-    },
-    {
-        "number": "64",
-        "author": "Steve Maguire",
-        "quote": "Fix the cause, not the symptom."
-    },
-    {
-        "number": "65",
-        "author": "Robert C. Martin",
-        "quote": "Even Bad code can function. But if the code isn't clean, it can bring a development organization to its knees."
-    },
-    {
-        "number": "66",
-        "author": "Leonardo Da Vinci",
-        "quote": "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things"
-    },
-    {
-        "number": "67",
-        "author": "Robert C. Martin",
-        "quote": "There are two parts to learning craftsmanship: knowledge and work. You must gain the knowledge of principles, patterns, practices, and heuristics that a craftsman knows, and you must also grind that knowledge into your fingers, eyes, and gut by working hard and practising."
-    },
-    {
-        "number": "68",
-        "author": "John Sonmez",
-        "quote": "Programming today involves utilizing libraries and frameworks more than language features."
-    },
-    {
-        "number": "69",
-        "author": "Robert C. Martin",
-        "quote": "So if you want to go fast if you want to get done quickly if you want your code to be easy to write, make it easy to read."
-    },
-    {
-        "number": "70",
-        "author": "John Sonmez",
-        "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
-    },
-    {
-        "number": "71",
-        "author": "Miguel de Icaza",
-        "quote": "Every piece of software written today is likely going to infringe on someone else’s patent."
-    },
-    {
-        "number": "72",
-        "author": "Anonymous",
-        "quote": "All computers wait at the same speed."
-    },
-    {
-        "number": "73",
-        "author": "Anonymous",
-        "quote": "A misplaced decimal point will always end up where it will do the greatest damage."
-    },
-    {
-        "number": "74",
-        "author": "Anonymous",
-        "quote": "A good programmer looks both ways before crossing a one-way street."
-    },
-    {
-        "number": "75",
-        "author": "John Johnson",
-        "quote": "First, solve the problem. Then, write the code."
-    },
-    {
-        "number": "76",
-        "author": "Oscar Wilde",
-        "quote": "Experience is the name everyone gives to their mistakes."
-    },
-    {
-        "number": "77",
-        "author": "Anonymous",
-        "quote": "Hey! It compiles! Ship it!"
-    },
-    {
-        "number": "78",
-        "author": "Anonymous",
-        "quote": "Computers make very fast, very accurate mistakes."
-    },
-    {
-        "number": "79",
-        "author": "Coco Chanel",
-        "quote": "In order to be irreplaceable, one must always be different."
-    },
-    {
-        "number": "80",
-        "author": "Larry Wall",
-        "quote": "Just don’t create a file called -rf."
-    },
-    {
-        "number": "81",
-        "author": "Favour Chukwuedo",
-        "quote": "Life is too short; wake up earlier!"
-    },
-    {
-        "number": "82",
-        "author": "Anonymous",
-        "quote": "Don't worry if it doesn't work right, If everything did, you'd be out of the job."
-    },
-    {
-        "number": "83",
-        "author": "Brian Kernighan",
-        "quote": "Don't comment bad code - rewrite it."
-    },
-    {
-        "number": "84",
-        "author": "Paul Graham",
-        "quote": "A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen."
-    },
-    {
-        "number": "85",
-        "author": "Dan Salomon",
-        "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code"
-    },
-    {
-        "number": "86",
-        "author": "Vidiu Platon",
-        "quote": "I don't care if it works on your machine! We are not shipping your machine!"
-    },
-    {
-        "number": "87",
-        "author": "Anonymous",
-        "quote": "Software undergoes beta testing shortly before it's released. Beta is latin for 'still doesn't work'"
-    },
-    {
-        "number": "88",
-        "author": "Edsger W. Dijkstra",
-        "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
-    },
-    {
-        "number": "89",
-        "author": "Mark Zuckerberg",
-        "quote": "People don't care about what you say, they care about what you build."
-    },
-    {
-        "number": "90",
-        "author": "Jeff Atwood",
-        "quote": "We have to stop optimizing for programmers and start optimizing for users."
-    },
-    {
-        "number": "91",
-        "author": "Bill Gates",
-        "quote": "The computer was born to solve problems that did not exist before."
-    },
-    {
-        "number": "92",
-        "author": "Anonymous",
-        "quote": "Real programmers don't comment their code. If it was hard to write, it should be hard to understand."
-    },
-    {
-        "number": "93",
-        "author": "Norm Schryer",
-        "quote": " If the code and the comments do not match, possibly both are incorrect."
-    },
-    {
-        "number": "94",
-        "author": "Linus Torvalds",
-        "quote": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships."
-    },
-    {
-        "number": "95",
-        "author": "Jeremy Hammond",
-        "quote": "Your mind is programmable - if you're not programming your mind, something else will program it for you. - "
-    },
-    {
-        "number": "96",
-        "author": "William Laeder",
-        "quote": "Debugging becomes significantly easier if you first admit that you are the problem. "
-    },
-    {
-        "number": "97",
-        "author": "Anonymous",
-        "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
-    },
-    {
-        "number": "98",
-        "author": "John Johnson",
-        "quote": "First, solve the problem Then write the code"
-    },
-    {
-        "number": "99",
-        "author": "Grady Booch",
-        "quote": "The function of a good software is to make the complex appear to be simple."
-    },
-    {
-        "number": "100",
-        "author": "Blaise Pascal",
-        "quote": "Small minds are concerned with the extraordinary, great minds with the ordinary."
-    },
-    {
-        "number": "101",
-        "author": "Naser Dabit",
-        "quote": "One thing I take pride in is lifting up everyone, I feel like our industry has developed popular cliques that only help each other out."
-    },
-    {
-        "number": "102",
-        "author": "Dan Abramov",
-        "quote": "I love React. As a user. Still feels liberating."
-    },
-    {
-        "number": "103",
-        "author": "Naser Dabit",
-        "quote": "I think basically any company hiring right now will be using a framework of some sort. Nothing wrong with learning the framework as early as possible even if you're still polishing your JavaScript skills."
-    },
-    {
-        "number": "104",
-        "author": "Nader Dabit",
-        "quote": "It's usually who you know vs what you know. Getting your foot in the door is the most important thing to do. Once you get an opportunity you can prove yourself & from there you'll have tons more opportunities."
-    },
-    {
-        "number": "105",
-        "author": "Matt Mullenweg",
-        "quote": "Technology is best when it brings people together."
-    },
-    {
-        "number": "106",
-        "author": "Clive James",
-        "quote": "It is only when they go wrong that machines remind you how powerful they are."
-    },
-    {
-        "number": "107",
-        "author": "Tim Berners-Lee",
-        "quote": "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past."
-    },
-    {
-        "number": "108",
-        "author": "Stewart Brand",
-        "quote": "Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road."
-    },
-    {
-        "number": "109",
-        "author": "Douglas Adams",
-        "quote": "We are stuck with technology when what we really want is just stuff that works."
-    },
-    {
-        "number": "110",
-        "author": "R. Buckminster Fuller",
-        "quote": "Humanity is acquiring all the right technology for all the wrong reasons."
-    },
-    {
-        "number": "111",
-        "author": "Arthur C. Clarke",
-        "quote": "Any sufficiently advanced technology is equivalent to magic."
-    },
-    {
-        "number": "112",
-        "author": "Mark Kennedy",
-        "quote": "All of the biggest technological inventions created by man - the aeroplane, the automobile, the computer - says little about his intelligence, but speaks volumes about his laziness."
-    },
-    {
-        "number": "113",
-        "author": "Pablo Picasso",
-        "quote": "Computers are useless.  They can only give you answers."
-    },
-    {
-        "number": "114",
-        "author": "Don DeLillo",
-        "quote": "This is the whole point of technology.  It creates an appetite for immortality on the one hand.  It threatens universal extinction on the other. Technology is lust removed from nature."
-    },
-    {
-        "number": "115",
-        "author": "Sydney Harris",
-        "quote": "The real danger is not that computers will begin to think like men, but that men will begin to think like computers."
-    },
-    {
-        "number": "116",
-        "author": "Arthur Schlesinger",
-        "quote": "Science and technology revolutionize our lives, but memory, tradition and myth frame our response."
-    },
-    {
-        "number": "117",
-        "author": "Dave Barry",
-        "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."
-    },
-    {
-        "number": "118",
-        "author": "J.K. Rowling",
-        "quote": "Microsoft has a new version out, Windows XP, which according to everybody is the ‘most reliable Windows ever.‘ To me, this is like saying that asparagus is ‘the most articulate vegetable ever."
-    },
-    {
-        "number": "119",
-        "author": "Pablo Picasso",
-        "quote": "Never trust anything that can think for itself if you can't see where it keeps its brain."
-    },
-    {
-        "number": "200",
-        "author": "Frank Lloyd Wright",
-        "quote": "The computer lets you make more mistakes faster than any invention in human history with the possible exceptions of handguns and tequila."
-    },
-    {
-        "number": "201",
-        "author": "Harold Abelson",
-        "quote": "Programs must be written for people to read, and only incidentally for machines to execute."
-    },
-    {
-        "number": "202",
-        "author": "Alan J. Peris",
-        "quote": "A language that doesn't affect the way you think about programming is not worth learning."
-    },
-    {
-        "number": "203",
-        "author": "Edward V. Berad",
-        "quote": "Walking on water and developing software from a specification are easy if both are frozen."
-    },
-    {
-        "number": "204",
-        "author": "C.A.R. Hoare",
-        "quote": "The most important property of a program is whether it accomplishes the intentions of it's user."
-    },
-    {
-        "number": "205",
-        "author": "Linus Torvalds",
-        "quote": "Talk is cheap. Show me the code."
-    },
-    {
-        "number": "206",
-        "author": "David Adigwu",
-        "quote": "Respect senior developers but fear junior developers, they are likely to create the next big software."
-    },
-    {
-        "number": "207",
-        "author": "Kelly Vaughn",
-        "quote": "What is this? ~ A memoir by a JavaSCript programmer."
-    },
-    {
-        "number": "208",
-        "author": "Suz Hinton",
-        "quote": "Beginner developers need empathy from established programmers and good technical mentors more than anything. Knowing they're making progress via external feedback and validation will pull them out of the inevitable tough moments in their journey."
-    },
-    {
-        "number": "209",
-        "author": "Bill Gates",
-        "quote": "Your most unhappy customers are your greatest source of learning."
-    },
-    {
-        "number": "210",
-        "author": "Anonymous",
-        "quote": "The purpose of software engineering is to control complexity, not to create it."
-    },
-    {
-        "number": "211",
-        "author": "Bolaji Ayodeji",
-        "quote": "Automating tasks in your workflow can free up time for you to focus on more pressing tasks. This might be using aliases, starter boilerplates, bash scripts and all that."
-    },
-    {
-        "number": "212",
-        "author": "freeCodeCamp",
-        "quote": "When you get stuck, remember to: Read the documentation or error, Search Google and Ask for help"
-    },
-    {
-        "number": "213",
-        "author": "Norman Vincent Peale",
-        "quote": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."
-    },
-    {
-        "number": "214",
-        "author": "John Carmack",
-        "quote": "Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better."
-    },
-    {
-        "number": "215",
-        "author": "Devloper",
-        "quote": "Stack Overflow's great when people choose to demonstrate their intelligence by insulting your approach rather than answering the question or providing substantive guidance."
-    },
-    {
-        "number": "216",
-        "author": "Bill Gates",
-        "quote": "At Microsoft there are lots of brilliant ideas, but the image is that they all come from the top — I’m  afraid that’s not quite right."
-    },
-    {
-        "number": "217",
-        "author": "Devloper",
-        "quote": "MongoDB, it's like the Dory from Finding Nemo of databases"
-    },
-    {
-        "number": "218",
-        "author": "Bill Gates",
-        "quote": "We’re responsible for the creation of the PC industry. The whole idea of compatible machines and lots of software.. that’s something we brought to computing. And so it’s a responsibility for us to make sure that things like security don’t get in the way of that dream."
-    },
-    {
-        "number": "219",
-        "author": "Devloper",
-        "quote": "Doctors in the 1940s: Smoke, it's good for you. Zuck in the 2000s: Join Facebook, it's good for you"
-    },
-    {
-        "number": "220",
-        "author": "Bill Gates",
-        "quote": "People always fear change. People feared electricity when it was invented, didn’t they?"
-    },
-    {
-        "number": "221",
-        "author": "Bill Gates",
-        "quote": "If you can’t make it good, at least make it look good."
-    },
-    {
-        "number": "222",
-        "author": "Bill Gates",
-        "quote": "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."
-    },
-    {
-        "number": "223",
-        "author": "Martin Fowler",
-        "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
-    },
-    {
-        "number": "224",
-        "author": "Martin Fowler",
-        "quote": "I’m not a great programmer; I’m just a good programmer with great habits."
-    },
-    {
-        "number": "225",
-        "author": "Martin Fowler",
-        "quote": "Poorly designed code usually takes more code to do the same things, often because the code quite literally does the same thing in several places."
-    },
-    {
-        "number": "226",
-        "author": "Martin Fowler",
-        "quote": "Repetition is the root of all software evil."
-    }
+  {
+    "number": "1",
+    "author": "Von R. Glitschka",
+    "quote": "The client may be king, but he's not the art director."
+  },
+  {
+    "number": "2",
+    "author": "Frank Capra",
+    "quote": "A hunch is creativity trying to tell you something."
+  },
+  {
+    "number": "3",
+    "author": "Steven Heller",
+    "quote": "As a profession, graphic designers have been shamefully remiss or ineffective about plying their craft for social or political betterment."
+  },
+  {
+    "number": "4",
+    "author": "Isaac Bashevis Singer",
+    "quote": "Every creator painfully experiences the chasm between his inner vision and its ultimate expression."
+  },
+  {
+    "number": "5",
+    "author": "James Hague",
+    "quote": "It’s extremely difficult to be simultaneously concerned with the end-user experience of whatever it is that you’re building and the architecture of the program that delivers that experience."
+  },
+  {
+    "number": "6",
+    "author": "Bill Cahan",
+    "quote": "We, unfortunately, live in a corporate world where group decision making is made to avoid failure rather than to achieve success."
+  },
+  {
+    "number": "7",
+    "author": "Michael Stinson",
+    "quote": "Letterspacing creates speedbumps for the reader."
+  },
+  {
+    "number": "8",
+    "author": "Ernest Hemingway",
+    "quote": "Write drunk; edit sober."
+  },
+  {
+    "number": "9",
+    "author": "Milton Glaser",
+    "quote": "The real issue is not talent as an independent element, but the talent in relationship to will, desire, and persistence. Talent without these things vanishes and even modest talent with those characteristics grows."
+  },
+  {
+    "number": "10",
+    "author": "Ricardo Zea",
+    "quote": "Learning Web Design is like playing video games: You start small and build your character as you progress, then you beat the boss, literally."
+  },
+  {
+    "number": "11",
+    "author": "Charles Mingus",
+    "quote": "Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that’s creativity."
+  },
+  {
+    "number": "12",
+    "author": "Andrew Lewis",
+    "quote": "I love the comment, “You must love designing for a living.” At that point, I usually start to laugh or break into uncontrollable tears."
+  },
+  {
+    "number": "13",
+    "author": "Brian Eno",
+    "quote": "Instead of shooting arrows at somebody else’s target… I make my own target around wherever my arrow has happened to have landed."
+  },
+  {
+    "number": "14",
+    "author": "Thomas Vasquez",
+    "quote": "I’ve always held to the belief that the practice of creating compelling graphic design occurs not by employing the principals of a democracy, but rather, that of a monarchy."
+  },
+  {
+    "number": "15",
+    "author": "Anton Fokker",
+    "quote": "Once the problem was stated, its solution came to me in a flash."
+  },
+  {
+    "number": "16",
+    "author": "Wim Crouwel",
+    "quote": "You can’t do better design with a computer, but you can speed up your work enormously."
+  },
+  {
+    "number": "17",
+    "author": "Bolaji Ayodeji",
+    "quote": "Keep it clear, simple and light; too many designs causes distractions."
+  },
+  {
+    "number": "18",
+    "author": "Seun Daramola",
+    "quote": "To be relevant in the industry you MUST possess JavaScript skills as a front-end engineer. I know people who get hired earning real dollars with just sound react skills with little or no design sense. The styling part of things is something you can easily pick along the way. We must raise people who are relevant to the industry"
+  },
+  {
+    "number": "19",
+    "author": "Ivan Chermayeff",
+    "quote": "Design is directed toward human beings. To design is to solve human problems by identifying them and executing the best solution."
+  },
+  {
+    "number": "20",
+    "author": "Benjamin Cavanagh",
+    "quote": "A computer without Photoshop is like a dog with no legs. Sure is fun, but you can’t really do anything with it."
+  },
+  {
+    "number": "21",
+    "author": "Albert Einstein",
+    "quote": "If you can’t explain it simply, you don’t understand it well enough."
+  },
+  {
+    "number": "22",
+    "author": "Bolaji Ayodeji",
+    "quote": "Use your time now to get the principles of design, understand and build perfect User Interfaces then add JavaScript to become complete."
+  },
+  {
+    "number": "23",
+    "author": "Ana Cummings",
+    "quote": "Inspired interiors indubitably involve ingenious imitations of inspired interiors."
+  },
+  {
+    "number": "24",
+    "author": "Tom Bissel",
+    "quote": "To create anything–whether a short story or a magazine profile or a film or a sitcom–is to believe, if only momentarily, you are capable of magic."
+  },
+  {
+    "number": "25",
+    "author": "Mike Monteiro",
+    "quote": "A good designer finds an elegant way to put everything you need on a page. A great designer convinces you half that shit is unnecessary."
+  },
+  {
+    "number": "26",
+    "author": "Stephen Fry",
+    "quote": "As if a device can function if it has no style. As if a device can be called stylish that does not function superbly… yes, beauty matters. Boy, does it matter? It is not surface, it is not an extra, it is the thing itself."
+  },
+  {
+    "number": "27",
+    "author": "John Mason Brown",
+    "quote": "The only true happiness comes from squandering ourselves for a purpose."
+  },
+  {
+    "number": "28",
+    "author": "Ryan Singer",
+    "quote": "Good ideas turn into good designs fairly quickly. If you catch yourself fiddling too much with colours, borders and treatments to bring a design together, chances are the problem lies somewhere deeper."
+  },
+  {
+    "number": "29",
+    "author": "James Hague",
+    "quote": "It’s extremely difficult to be simultaneously concerned with the end-user experience of whatever it is that you’re building and the architecture of the program that delivers that experience."
+  },
+  {
+    "number": "30",
+    "author": "Jonathan Ive",
+    "quote": "The word design is everything and nothing. The design and the product itself are inseparable."
+  },
+  {
+    "number": "31",
+    "author": "Chet Atkins",
+    "quote": "Copying one person is stealing. Copying ten is research."
+  },
+  {
+    "number": "32",
+    "author": "William Addison Dwiggins",
+    "quote": "In the matter of layout, forget art and use horse-sense. The printer designers whole duty is to make a clear presentation of the message… This calls for an exercise of common sense and faculty of analysis rather than for art."
+  },
+  {
+    "number": "33",
+    "author": "Jeremy Allison",
+    "quote": "We have to learn to see technical devices and software as others see them. Feeling a sense of pride in getting a device to do what we want doesn’t mean we’re clever, it means the design was wrong."
+  },
+  {
+    "number": "34",
+    "author": "Jamie Croft",
+    "quote": "My wife doesn’t like it”; Designer: “Well then, I don’t like your wife”"
+  },
+  {
+    "number": "35",
+    "author": "Hugh Macleod",
+    "quote": "Nobody can tell you if what you’re doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is."
+  },
+  {
+    "number": "36",
+    "author": "Tao Te Ching",
+    "quote": "Deal with the difficult while it is yet easy; Deal with the great while it is yet small."
+  },
+  {
+    "number": "37",
+    "author": "Hugh Macleod",
+    "quote": "Nobody can tell you if what you’re doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is."
+  },
+  {
+    "number": "38",
+    "author": "David Ogilvy",
+    "quote": "In most agencies, account executives outnumber the copywriters two to one. If you were a dairy farmer, would you employ twice as many milkers as you had cows?"
+  },
+  {
+    "number": "39",
+    "author": "Human Factors International",
+    "quote": "If the users can’t find it, the function’s not there."
+  },
+  {
+    "number": "40",
+    "author": "David Carson",
+    "quote": "Graphic design will save the world right after rock and roll does."
+  },
+  {
+    "number": "41",
+    "author": "Master Yuan-Ma",
+    "quote": "Below the surface of the machine, the program moves. Without effort, it expands and contracts. In great harmony, electrons scatter and regroup. The forms on the monitor are but ripples on the water. The essence stays invisibly below."
+  },
+  {
+    "number": "42",
+    "author": "Donald Knuth",
+    "quote": "People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."
+  },
+  {
+    "number": "43",
+    "author": "Charles Babbage",
+    "quote": "On two occasions I have been asked, ‘Pray, Mr Babbage, if you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."
+  },
+  {
+    "number": "44",
+    "author": "C.A.R. Hoare",
+    "quote": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."
+  },
+  {
+    "number": "45",
+    "author": "Barbara Liskov",
+    "quote": "An abstract data type is realized by writing a special kind of program which defines the type in terms of the operations which can be performed on it."
+  },
+  {
+    "number": "46",
+    "author": "Edsger Dijkstra",
+    "quote": "The question of whether Machines Can Think is about as relevant as the question of whether Submarines Can Swim."
+  },
+  {
+    "number": "47",
+    "author": "Chris Sevilleja",
+    "quote": "To know a person is to read their GitHub account"
+  },
+  {
+    "number": "48",
+    "author": "Brian Kernighan and P.J. Plauger,",
+    "quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
+  },
+  {
+    "number": "49",
+    "author": "Jamie Zawinski",
+    "quote": "Some people, when confronted with a problem, think ‘I know, I'll use regular expressions.’ Now they have two problems."
+  },
+  {
+    "number": "50",
+    "author": "Tef",
+    "quote": "Write code that is easy to delete, not easy to extend."
+  },
+  {
+    "number": "51",
+    "author": "Otemuyiwa Prosper",
+    "quote": "The excitement of learning is gold, take your time and enjoy every bit of it, there’s really no rush and “getting there” because the moment you think you are there, you start to decline"
+  },
+  {
+    "number": "52",
+    "author": "Bill Gates",
+    "quote": "The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency"
+  },
+  {
+    "number": "53",
+    "author": "Steve Jobs",
+    "quote": "Technology is nothing. What's important is that you have faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them"
+  },
+  {
+    "number": "54",
+    "author": "Satya Nadella",
+    "quote": "Our industry does not respect tradition it only respects innovation."
+  },
+  {
+    "number": "55",
+    "author": "Sukant Ratnakar",
+    "quote": "Innovation is the outcome of a habit, not a random act."
+  },
+  {
+    "number": "56",
+    "author": "PUSHON DEVS",
+    "quote": "How to avoid errors; console.clear();"
+  },
+  {
+    "number": "57",
+    "author": "Alexis Charytonow",
+    "quote": "Repeat after me, OAuth isn't an authorization protocol. It's a delegation protocol."
+  },
+  {
+    "number": "58",
+    "author": "PUSHON DEVS",
+    "quote": "Computers only do what you tell them to do, If its not working, you're doing it wrong"
+  },
+  {
+    "number": "59",
+    "author": "Ken Thompson",
+    "quote": "One of my productive days was throwing away 1000 lines of code"
+  },
+  {
+    "number": "60",
+    "author": "Otemuyiwa Prosper",
+    "quote": "A new day, another opportunity to know that excuses are tools in the hand of the incompetent."
+  },
+  {
+    "number": "61",
+    "author": "Bolaji Ayodeji",
+    "quote": "Take your time and learn the basics, If the foundation is weak, the house will fall."
+  },
+  {
+    "number": "62",
+    "author": "John Woods",
+    "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+  },
+  {
+    "number": "63",
+    "author": "Anonymous",
+    "quote": "Artificial Intelligence usually beats natural stupidity."
+  },
+  {
+    "number": "64",
+    "author": "Steve Maguire",
+    "quote": "Fix the cause, not the symptom."
+  },
+  {
+    "number": "65",
+    "author": "Robert C. Martin",
+    "quote": "Even Bad code can function. But if the code isn't clean, it can bring a development organization to its knees."
+  },
+  {
+    "number": "66",
+    "author": "Leonardo Da Vinci",
+    "quote": "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things"
+  },
+  {
+    "number": "67",
+    "author": "Robert C. Martin",
+    "quote": "There are two parts to learning craftsmanship: knowledge and work. You must gain the knowledge of principles, patterns, practices, and heuristics that a craftsman knows, and you must also grind that knowledge into your fingers, eyes, and gut by working hard and practising."
+  },
+  {
+    "number": "68",
+    "author": "John Sonmez",
+    "quote": "Programming today involves utilizing libraries and frameworks more than language features."
+  },
+  {
+    "number": "69",
+    "author": "Robert C. Martin",
+    "quote": "So if you want to go fast if you want to get done quickly if you want your code to be easy to write, make it easy to read."
+  },
+  {
+    "number": "70",
+    "author": "John Sonmez",
+    "quote": "One-hundred percent of problems that can't be reproduced can't be debugged"
+  },
+  {
+    "number": "71",
+    "author": "Miguel de Icaza",
+    "quote": "Every piece of software written today is likely going to infringe on someone else’s patent."
+  },
+  {
+    "number": "72",
+    "author": "Anonymous",
+    "quote": "All computers wait at the same speed."
+  },
+  {
+    "number": "73",
+    "author": "Anonymous",
+    "quote": "A misplaced decimal point will always end up where it will do the greatest damage."
+  },
+  {
+    "number": "74",
+    "author": "Anonymous",
+    "quote": "A good programmer looks both ways before crossing a one-way street."
+  },
+  {
+    "number": "75",
+    "author": "John Johnson",
+    "quote": "First, solve the problem. Then, write the code."
+  },
+  {
+    "number": "76",
+    "author": "Oscar Wilde",
+    "quote": "Experience is the name everyone gives to their mistakes."
+  },
+  {
+    "number": "77",
+    "author": "Anonymous",
+    "quote": "Hey! It compiles! Ship it!"
+  },
+  {
+    "number": "78",
+    "author": "Anonymous",
+    "quote": "Computers make very fast, very accurate mistakes."
+  },
+  {
+    "number": "79",
+    "author": "Coco Chanel",
+    "quote": "In order to be irreplaceable, one must always be different."
+  },
+  {
+    "number": "80",
+    "author": "Larry Wall",
+    "quote": "Just don’t create a file called -rf."
+  },
+  {
+    "number": "81",
+    "author": "Favour Chukwuedo",
+    "quote": "Life is too short; wake up earlier!"
+  },
+  {
+    "number": "82",
+    "author": "Anonymous",
+    "quote": "Don't worry if it doesn't work right, If everything did, you'd be out of the job."
+  },
+  {
+    "number": "83",
+    "author": "Brian Kernighan",
+    "quote": "Don't comment bad code - rewrite it."
+  },
+  {
+    "number": "84",
+    "author": "Paul Graham",
+    "quote": "A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen."
+  },
+  {
+    "number": "85",
+    "author": "Dan Salomon",
+    "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code"
+  },
+  {
+    "number": "86",
+    "author": "Vidiu Platon",
+    "quote": "I don't care if it works on your machine! We are not shipping your machine!"
+  },
+  {
+    "number": "87",
+    "author": "Anonymous",
+    "quote": "Software undergoes beta testing shortly before it's released. Beta is latin for 'still doesn't work'"
+  },
+  {
+    "number": "88",
+    "author": "Edsger W. Dijkstra",
+    "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+  },
+  {
+    "number": "89",
+    "author": "Mark Zuckerberg",
+    "quote": "People don't care about what you say, they care about what you build."
+  },
+  {
+    "number": "90",
+    "author": "Jeff Atwood",
+    "quote": "We have to stop optimizing for programmers and start optimizing for users."
+  },
+  {
+    "number": "91",
+    "author": "Bill Gates",
+    "quote": "The computer was born to solve problems that did not exist before."
+  },
+  {
+    "number": "92",
+    "author": "Anonymous",
+    "quote": "Real programmers don't comment their code. If it was hard to write, it should be hard to understand."
+  },
+  {
+    "number": "93",
+    "author": "Norm Schryer",
+    "quote": " If the code and the comments do not match, possibly both are incorrect."
+  },
+  {
+    "number": "94",
+    "author": "Linus Torvalds",
+    "quote": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships."
+  },
+  {
+    "number": "95",
+    "author": "Jeremy Hammond",
+    "quote": "Your mind is programmable - if you're not programming your mind, something else will program it for you. - "
+  },
+  {
+    "number": "96",
+    "author": "William Laeder",
+    "quote": "Debugging becomes significantly easier if you first admit that you are the problem. "
+  },
+  {
+    "number": "97",
+    "author": "Anonymous",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+  },
+  {
+    "number": "98",
+    "author": "John Johnson",
+    "quote": "First, solve the problem Then write the code"
+  },
+  {
+    "number": "99",
+    "author": "Grady Booch",
+    "quote": "The function of a good software is to make the complex appear to be simple."
+  },
+  {
+    "number": "100",
+    "author": "Blaise Pascal",
+    "quote": "Small minds are concerned with the extraordinary, great minds with the ordinary."
+  },
+  {
+    "number": "101",
+    "author": "Naser Dabit",
+    "quote": "One thing I take pride in is lifting up everyone, I feel like our industry has developed popular cliques that only help each other out."
+  },
+  {
+    "number": "102",
+    "author": "Dan Abramov",
+    "quote": "I love React. As a user. Still feels liberating."
+  },
+  {
+    "number": "103",
+    "author": "Naser Dabit",
+    "quote": "I think basically any company hiring right now will be using a framework of some sort. Nothing wrong with learning the framework as early as possible even if you're still polishing your JavaScript skills."
+  },
+  {
+    "number": "104",
+    "author": "Nader Dabit",
+    "quote": "It's usually who you know vs what you know. Getting your foot in the door is the most important thing to do. Once you get an opportunity you can prove yourself & from there you'll have tons more opportunities."
+  },
+  {
+    "number": "105",
+    "author": "Matt Mullenweg",
+    "quote": "Technology is best when it brings people together."
+  },
+  {
+    "number": "106",
+    "author": "Clive James",
+    "quote": "It is only when they go wrong that machines remind you how powerful they are."
+  },
+  {
+    "number": "107",
+    "author": "Tim Berners-Lee",
+    "quote": "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past."
+  },
+  {
+    "number": "108",
+    "author": "Stewart Brand",
+    "quote": "Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road."
+  },
+  {
+    "number": "109",
+    "author": "Douglas Adams",
+    "quote": "We are stuck with technology when what we really want is just stuff that works."
+  },
+  {
+    "number": "110",
+    "author": "R. Buckminster Fuller",
+    "quote": "Humanity is acquiring all the right technology for all the wrong reasons."
+  },
+  {
+    "number": "111",
+    "author": "Arthur C. Clarke",
+    "quote": "Any sufficiently advanced technology is equivalent to magic."
+  },
+  {
+    "number": "112",
+    "author": "Mark Kennedy",
+    "quote": "All of the biggest technological inventions created by man - the aeroplane, the automobile, the computer - says little about his intelligence, but speaks volumes about his laziness."
+  },
+  {
+    "number": "113",
+    "author": "Pablo Picasso",
+    "quote": "Computers are useless.  They can only give you answers."
+  },
+  {
+    "number": "114",
+    "author": "Don DeLillo",
+    "quote": "This is the whole point of technology.  It creates an appetite for immortality on the one hand.  It threatens universal extinction on the other. Technology is lust removed from nature."
+  },
+  {
+    "number": "115",
+    "author": "Sydney Harris",
+    "quote": "The real danger is not that computers will begin to think like men, but that men will begin to think like computers."
+  },
+  {
+    "number": "116",
+    "author": "Arthur Schlesinger",
+    "quote": "Science and technology revolutionize our lives, but memory, tradition and myth frame our response."
+  },
+  {
+    "number": "117",
+    "author": "Dave Barry",
+    "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."
+  },
+  {
+    "number": "118",
+    "author": "J.K. Rowling",
+    "quote": "Microsoft has a new version out, Windows XP, which according to everybody is the ‘most reliable Windows ever.‘ To me, this is like saying that asparagus is ‘the most articulate vegetable ever."
+  },
+  {
+    "number": "119",
+    "author": "Pablo Picasso",
+    "quote": "Never trust anything that can think for itself if you can't see where it keeps its brain."
+  },
+  {
+    "number": "200",
+    "author": "Frank Lloyd Wright",
+    "quote": "The computer lets you make more mistakes faster than any invention in human history with the possible exceptions of handguns and tequila."
+  },
+  {
+    "number": "201",
+    "author": "Harold Abelson",
+    "quote": "Programs must be written for people to read, and only incidentally for machines to execute."
+  },
+  {
+    "number": "202",
+    "author": "Alan J. Peris",
+    "quote": "A language that doesn't affect the way you think about programming is not worth learning."
+  },
+  {
+    "number": "203",
+    "author": "Edward V. Berad",
+    "quote": "Walking on water and developing software from a specification are easy if both are frozen."
+  },
+  {
+    "number": "204",
+    "author": "C.A.R. Hoare",
+    "quote": "The most important property of a program is whether it accomplishes the intentions of it's user."
+  },
+  {
+    "number": "205",
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code."
+  },
+  {
+    "number": "206",
+    "author": "David Adigwu",
+    "quote": "Respect senior developers but fear junior developers, they are likely to create the next big software."
+  },
+  {
+    "number": "207",
+    "author": "Kelly Vaughn",
+    "quote": "What is this? ~ A memoir by a JavaSCript programmer."
+  },
+  {
+    "number": "208",
+    "author": "Suz Hinton",
+    "quote": "Beginner developers need empathy from established programmers and good technical mentors more than anything. Knowing they're making progress via external feedback and validation will pull them out of the inevitable tough moments in their journey."
+  },
+  {
+    "number": "209",
+    "author": "Bill Gates",
+    "quote": "Your most unhappy customers are your greatest source of learning."
+  },
+  {
+    "number": "210",
+    "author": "Anonymous",
+    "quote": "The purpose of software engineering is to control complexity, not to create it."
+  },
+  {
+    "number": "211",
+    "author": "Bolaji Ayodeji",
+    "quote": "Automating tasks in your workflow can free up time for you to focus on more pressing tasks. This might be using aliases, starter boilerplates, bash scripts and all that."
+  },
+  {
+    "number": "212",
+    "author": "freeCodeCamp",
+    "quote": "When you get stuck, remember to: Read the documentation or error, Search Google and Ask for help"
+  },
+  {
+    "number": "213",
+    "author": "Norman Vincent Peale",
+    "quote": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."
+  },
+  {
+    "number": "214",
+    "author": "John Carmack",
+    "quote": "Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better."
+  },
+  {
+    "number": "215",
+    "author": "Devloper",
+    "quote": "Stack Overflow's great when people choose to demonstrate their intelligence by insulting your approach rather than answering the question or providing substantive guidance."
+  },
+  {
+    "number": "216",
+    "author": "Bill Gates",
+    "quote": "At Microsoft there are lots of brilliant ideas, but the image is that they all come from the top — I’m  afraid that’s not quite right."
+  },
+  {
+    "number": "217",
+    "author": "Devloper",
+    "quote": "MongoDB, it's like the Dory from Finding Nemo of databases"
+  },
+  {
+    "number": "218",
+    "author": "Bill Gates",
+    "quote": "We’re responsible for the creation of the PC industry. The whole idea of compatible machines and lots of software.. that’s something we brought to computing. And so it’s a responsibility for us to make sure that things like security don’t get in the way of that dream."
+  },
+  {
+    "number": "219",
+    "author": "Devloper",
+    "quote": "Doctors in the 1940s: Smoke, it's good for you. Zuck in the 2000s: Join Facebook, it's good for you"
+  },
+  {
+    "number": "220",
+    "author": "Bill Gates",
+    "quote": "People always fear change. People feared electricity when it was invented, didn’t they?"
+  },
+  {
+    "number": "221",
+    "author": "Bill Gates",
+    "quote": "If you can’t make it good, at least make it look good."
+  },
+  {
+    "number": "222",
+    "author": "Bill Gates",
+    "quote": "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."
+  },
+  {
+    "number": "223",
+    "author": "Ron Jeffries",
+    "quote": "Code never lies, comments sometimes do."
+  },
+  {
+    "number": "224",
+    "author": "Rick Cook",
+    "quote": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning."
+  },
+  {
+    "number": "225",
+    "author": "Kent Beck",
+    "quote": "I'm not a great programmer; I'm just a good programmer with great habits."
+  },
+  {
+    "number": "226",
+    "author": "Robert C. Martin",
+    "quote": "Truth can only be found in one place: the code"
+  },
+  {
+    "number": "227",
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+  },
+  {
+    "number": "228",
+    "author": "Martin Fowler",
+    "quote": "I’m not a great programmer; I’m just a good programmer with great habits."
+  },
+  {
+    "number": "229",
+    "author": "Martin Fowler",
+    "quote": "Poorly designed code usually takes more code to do the same things, often because the code quite literally does the same thing in several places."
+  },
+  {
+    "number": "230",
+    "author": "Martin Fowler",
+    "quote": "Repetition is the root of all software evil."
+  }
 ]
