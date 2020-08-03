@@ -758,5 +758,50 @@
     "number": "232",
     "author": "Steve Jobs",
     "quote": "Stay hungry, stay foolish"
+  },
+  {
+    "number": "233",
+    "author": "Richard Feynman",
+    "quote": "If you can't explain something in simple terms, you don't understand it."
+  },
+  {
+    "number": "234",
+    "author": "Brian Kernighan",
+    "quote": "Controlling complexity is the essence of computer programming."
+  },
+  {
+    "number": "235",
+    "author": "Andrei Neagoie",
+    "quote": "Don't follow the money, follow the brains."
+  },
+  {
+    "number": "236",
+    "author": "Bill Gates",
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight"
+  },
+  {
+    "number": "237",
+    "author": "Phil karlton",
+    "quote": "There are only two hard things in Computer Science: cache invalidation and naming things."
+  },
+  {
+    "number": "238",
+    "author": "Andrew Singer",
+    "quote": "The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do."
+  },
+  {
+    "number": "239",
+    "author": "Donald Knuth",
+    "quote": "Premature optimization is the root of all evil."
+  },
+  {
+    "number": "240",
+    "author": "Ryan Holiday",
+    "quote": "Quit when you'll be mediocre, when the returns aren't worth the investment, when you no longer think you'll enjoy the ends. Stick when the dip is the obstacle that creates scarcity, when you're simply bridging the gap between beginner's luck and mastery."
+  },
+  {
+    "number": "241",
+    "author": "Andrei Neagoie",
+    "quote": "There is no yoda."
   }
 ]
