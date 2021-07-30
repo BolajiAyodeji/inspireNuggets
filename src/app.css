@@ -1,55 +1,91 @@
 @import url('../fonts/font.css');
 body {
-    background-color: #00ab66;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg fill-opacity='0.4'%3E%3Crect fill='%2300ab66' width='11' height='11'/%3E%3Crect fill='%2316ac66' x='10' width='11' height='11'/%3E%3Crect fill='%2322ad67' y='10' width='11' height='11'/%3E%3Crect fill='%232cae67' x='20' width='11' height='11'/%3E%3Crect fill='%2334b068' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%233ab169' y='20' width='11' height='11'/%3E%3Crect fill='%2341b269' x='30' width='11' height='11'/%3E%3Crect fill='%2346b36a' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%234cb46b' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%2351b56b' y='30' width='11' height='11'/%3E%3Crect fill='%2356b66c' x='40' width='11' height='11'/%3E%3Crect fill='%235ab86d' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%235fb96e' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%2363ba6f' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%2367bb70' y='40' width='11' height='11'/%3E%3Crect fill='%236bbc70' x='50' width='11' height='11'/%3E%3Crect fill='%236fbd71' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%2373be72' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%2377bf74' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%237bc075' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%237ec276' y='50' width='11' height='11'/%3E%3Crect fill='%2382c377' x='60' width='11' height='11'/%3E%3Crect fill='%2385c478' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%2389c579' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%238cc67b' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%2390c77c' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%2393c87d' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%2396c97f' x='70' width='11' height='11'/%3E%3Crect fill='%239aca80' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%239dcb82' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%23a0cd83' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%23a3ce85' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%23a6cf86' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%23a9d088' x='80' width='11' height='11'/%3E%3Crect fill='%23acd189' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%23afd28b' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%23b2d38d' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%23b5d48e' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%23b8d590' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%23bbd792' x='90' width='11' height='11'/%3E%3Crect fill='%23bed894' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%23c1d996' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%23c3da97' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%23c6db99' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%23c9dc9b' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%23ccdd9d' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%23cede9f' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%23d1e0a1' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%23d3e1a3' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%23d6e2a5' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%23d9e3a7' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%23dbe4a9' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%23dee6ab' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%23e0e7ae' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%23e2e8b0' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%23e5e9b2' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%23e7eab4' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%23e9ecb6' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%23ecedb9' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%23EEB' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
-    background-attachment: fixed;
-    background-size: cover;
-    text-align: center;
-    font-weight: 100;
-    font-family: 'Roboto Mono', monospace;
+  background-color: #00ab66;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg fill-opacity='0.4'%3E%3Crect fill='%2300ab66' width='11' height='11'/%3E%3Crect fill='%2316ac66' x='10' width='11' height='11'/%3E%3Crect fill='%2322ad67' y='10' width='11' height='11'/%3E%3Crect fill='%232cae67' x='20' width='11' height='11'/%3E%3Crect fill='%2334b068' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%233ab169' y='20' width='11' height='11'/%3E%3Crect fill='%2341b269' x='30' width='11' height='11'/%3E%3Crect fill='%2346b36a' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%234cb46b' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%2351b56b' y='30' width='11' height='11'/%3E%3Crect fill='%2356b66c' x='40' width='11' height='11'/%3E%3Crect fill='%235ab86d' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%235fb96e' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%2363ba6f' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%2367bb70' y='40' width='11' height='11'/%3E%3Crect fill='%236bbc70' x='50' width='11' height='11'/%3E%3Crect fill='%236fbd71' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%2373be72' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%2377bf74' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%237bc075' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%237ec276' y='50' width='11' height='11'/%3E%3Crect fill='%2382c377' x='60' width='11' height='11'/%3E%3Crect fill='%2385c478' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%2389c579' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%238cc67b' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%2390c77c' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%2393c87d' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%2396c97f' x='70' width='11' height='11'/%3E%3Crect fill='%239aca80' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%239dcb82' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%23a0cd83' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%23a3ce85' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%23a6cf86' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%23a9d088' x='80' width='11' height='11'/%3E%3Crect fill='%23acd189' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%23afd28b' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%23b2d38d' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%23b5d48e' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%23b8d590' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%23bbd792' x='90' width='11' height='11'/%3E%3Crect fill='%23bed894' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%23c1d996' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%23c3da97' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%23c6db99' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%23c9dc9b' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%23ccdd9d' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%23cede9f' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%23d1e0a1' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%23d3e1a3' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%23d6e2a5' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%23d9e3a7' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%23dbe4a9' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%23dee6ab' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%23e0e7ae' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%23e2e8b0' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%23e5e9b2' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%23e7eab4' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%23e9ecb6' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%23ecedb9' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%23EEB' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  font-weight: 100;
+  font-family: 'Roboto Mono', monospace;
+}
+
+:root {
+  --btnColor: #fff;
+  --btnBg: #333;
+  --twitter: #38a1f3
 }
 
 hr {
-    border-top: 1px dashed #ddd;
+  border-top: 1px dashed #ddd;
 }
 
 .container {
-    position: absolute;
-    top: 40%;
-    margin-top: -200px;
-    left: 50%;
-    margin-left: -25%;
-    width: 45%;
-    height: 400px;
-    font-weight: 100;
+  position: absolute;
+  top: 40%;
+  margin-top: -200px;
+  left: 50%;
+  margin-left: -25%;
+  width: 45%;
+  height: 400px;
+  font-weight: 100;
 }
 
 #inspire {
-    width: 30%;
-    float: left;
+  width: 30%;
+  float: left;
 }
 
 .icon {
-    width: 30%;
-    height: auto;
+  width: 30%;
+  height: auto;
 }
 
 .icon2 {
-    width: 15%;
-    height: auto;
+  width: 15%;
+  height: auto;
 }
 
 #quote {
-    font-size: 1.32em;
-    line-height: 2.0em;
-    letter-spacing: 0.5px;
-    font-weight: 100;
-    text-align: justify;
+  font-size: 1.32em;
+  line-height: 2em;
+  letter-spacing: 0.5px;
+  font-weight: 100;
+  text-align: justify;
 }
 
 #author {
-    font-size: 1.5em;
-    text-align: left;
-    color: #000;
-    text-transform: uppercase;
+  font-size: 1.5em;
+  text-align: left;
+  color: #000;
+  text-transform: uppercase;
+}
+
+button {
+  cursor: pointer;
+  font-size: 1.2rem;
+  height: 2.5em;
+  border: none;
+  border-radius: 0.625em;
+  color: var(--btnColor);
+  background: var(--btnBg);
+  outline: none;
+  padding: 0.5em 1.8em;
+  box-shadow: 0 0.3rem rgba(121, 121, 121, 0.45);
+}
+
+button:hover {
+  filter: brightness(110%);
+}
+
+button:active {
+  transform: translate(0, 0.3rem);
+  box-shadow: 0 0.1rem rgba(255, 255, 255, 0.45);
+}
+
+.twitter-button:hover{
+    color: var(--twitter)
+}
+
+.fa-twitter {
+    font-size: 1.5rem;
 }
